@@ -1,0 +1,28 @@
+{
+  "eventos": [
+    {
+      "id": 1,
+      "nombre": "Clase de HTML5",
+      "fecha": "2023-07-05",
+      "horaInicio": "10:00",
+      "horaFin": "12:00",
+      "color": "#FF0000"
+    },
+    {
+      "id": 2,
+      "nombre": "CRUD con Redux",
+      "fecha": "2023-07-06",
+      "horaInicio": "14:00",
+      "horaFin": "16:00",
+      "color": "#00FF00"
+    },
+    {
+      "id": 3,
+      "nombre": "Introducción a React JS",
+      "fecha": "2023-07-07",
+      "horaInicio": "18:00",
+      "horaFin": "20:00",
+      "color": "#0000FF"
+    }
+  ]
+}
