@@ -3,20 +3,29 @@
     {
       "id": "1",
       "title": "Clase de HTML5",
-      "start": "2023-07-14T10:00:00", 
-      "end": "2023-07-14T12:00:00"
+      "start": "2023-07-14T10:00:00",
+      "end": "2023-07-14T12:00:00",
+      "extendedProps": {
+        "tipo": "clase"
+      }
     },
     {
       "id": "2",
       "title": "CRUD con Redux",
-      "start": "2023-07-06T14:00:00", 
-      "end": "2023-07-06T14:30:00"
+      "start": "2023-07-06T14:00:00",
+      "end": "2023-07-06T14:30:00",
+      "extendedProps": {
+        "tipo": "entrega"
+      }
     },
     {
       "id": "3",
       "title": "Introducción a React JS",
-      "start": "2023-07-08T09:00:00", 
-      "end": "2023-07-08T11:00:00"
-    }
+      "start": "2023-07-08T09:00:00",
+      "end": "2023-07-08T11:00:00",
+      "extendedProps": {
+        "tipo": "clase"
+      }
+    } 
   ]
 }
