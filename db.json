@@ -24,5 +24,44 @@
       "horaFin": "20:00",
       "color": "#0000FF"
     }
+  ],
+
+  "administradores": [
+    {
+      "id":1,
+      "tipo_documento": "CC",
+      "numero_documento": 12757369,
+      "nombre_completo": "Juan Velasquez",
+      "email": "juanvelez@gmail.com",
+      "contraseña": 1234,
+      "rol":"administrador"
+    },
+     {
+      "id":2,
+      "tipo_documento": "CC",
+      "numero_documento": 198788,
+      "nombre_completo": "Jenny Cardona",
+      "email": "jennycardona@gmail.com",
+      "contraseña": 4567,
+      "rol":"administrador"
+    },
+     {
+      "id":3,
+      "tipo_documento": "CC",
+      "numero_documento": 45678900,
+      "nombre_completo": "Gabriela Martinez",
+      "email": "gabrielamartinez@gmail.com",
+      "contraseña": 9825,
+      "rol":"administrador"
+    },
+     {
+      "id":4,
+      "tipo_documento": "CC",
+      "numero_documento": 8976546,
+      "nombre_completo": "Ana Echeverri",
+      "email": "echeverriana@gmail.com",
+      "contraseña": 7896,
+      "rol":"administrador"
+    }
   ]
 }
