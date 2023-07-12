@@ -1,4 +1,24 @@
 {
+  "usuarios":[
+    {
+      "id": 1,
+      "email": "jhon.cartagena@gmail.com",
+      "password": "Jhon123*",
+      "rol": "administrador"
+    },
+    {
+      "id": 2,
+      "email": "luisa.urrego@gmail.com",
+      "password": "Luisa123*",
+      "rol": "formador"
+    },
+    {
+      "id": 3,
+      "email": "yesid.vanegas@gmail.com",
+      "password": "Yesid123*",
+      "rol": "participante"
+    }
+  ],
   "eventos": [
     {
       "id": "1",
