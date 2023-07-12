@@ -1,7 +1,38 @@
-{
-  "eventosFrontend1": [],
-  "eventosFrontend2": [],
-  "eventosFrontend3": [],
+{"recursosEndpoint1": [],
+  "eventosFrontend3": [
+    {
+      "id": "1",
+      "title": "Clase de HTML5",
+      "start": "2023-07-14T10:00:00",
+      "end": "2023-07-14T12:00:00"
+    },
+    {
+      "id": "2",
+      "title": "CRUD con Redux",
+      "start": "2023-07-06T14:00:00",
+      "end": "2023-07-06T14:30:00"
+    },
+    {
+      "id": "3",
+      "title": "Introducción a React JS",
+      "start": "2023-07-08T09:00:00",
+      "end": "2023-07-08T11:00:00"
+    },
+    {
+      "recursosEndpoint": "http://localhost:3000/recursosEndpoint1"
+    },
+    {
+      "curso": {
+        "imagen": "ruta_de_la_imagen.jpg",
+        "titulo": "Título del Curso",
+        "descripcion": "Descripción del curso",
+        "duracion": "4 horas",
+        "instructor": "Nombre del Instructor"
+      }
+    }
+    
+  ]
+  ,
   "usuarios":[
     {
       "id": 1,
