@@ -72,9 +72,11 @@
         {
           "Frontend": [
             {
-              "Fundamentos": [
+              "cohortes": [
                 {
-                  "Front1": [
+                  "nombre": "Front1",
+                  "fundamentos": true,
+                  "estudiantes": [
                     {
                       "id": 1,
                       "name": "John Doe",
@@ -121,9 +123,15 @@
                       }
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "cohortes": [
                 {
-                  "Front2": [
+                  "nombre": "Front2",
+                  "fundamentos": false,
+                  "estudiantes": [
                     {
                       "id": 1,
                       "name": "John Doe",
@@ -158,108 +166,6 @@
                       "id": 3,
                       "name": "Juan Raul",
                       "photo": "https://randomuser.me/api/portraits/men/60.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Profundizacion": [
-                {
-                  "Front3": [
-                    {
-                      "id": 1,
-                      "name": "John Doe",
-                      "photo": "https://randomuser.me/api/portraits/men/98.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    },
-                    {
-                      "id": 2,
-                      "name": "John Shed",
-                      "photo": "https://randomuser.me/api/portraits/women/92.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    },
-                    {
-                      "id": 3,
-                      "name": "Juan Raul",
-                      "photo": "https://randomuser.me/api/portraits/men/66.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    }
-                  ]
-                },
-                {
-                  "Front4": [
-                    {
-                      "id": 1,
-                      "name": "John Doe",
-                      "photo": "https://randomuser.me/api/portraits/men/67.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    },
-                    {
-                      "id": 2,
-                      "name": "John Shed",
-                      "photo": "https://randomuser.me/api/portraits/women/50.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    },
-                    {
-                      "id": 3,
-                      "name": "Juan Raul",
-                      "photo": "https://randomuser.me/api/portraits/men/30.jpg",
                       "calificaciones": {
                         "workshop": {
                           "fecha": "2023-07-01",
@@ -280,9 +186,11 @@
         {
           "Backend": [
             {
-              "Fundamentos": [
+              "cohortes": [
                 {
-                  "Back1": [
+                  "nombre": "Back1",
+                  "fundamentos": true,
+                  "estudiantes": [
                     {
                       "id": 1,
                       "name": "John Doe",
@@ -329,9 +237,15 @@
                       }
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "cohortes": [
                 {
-                  "Back2": [
+                  "nombre": "Back2",
+                  "fundamentos": false,
+                  "estudiantes": [
                     {
                       "id": 1,
                       "name": "John Doe",
@@ -366,108 +280,6 @@
                       "id": 3,
                       "name": "Juan Raul",
                       "photo": "https://randomuser.me/api/portraits/men/60.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Profundizacion": [
-                {
-                  "Back3": [
-                    {
-                      "id": 1,
-                      "name": "John Doe",
-                      "photo": "https://randomuser.me/api/portraits/men/98.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    },
-                    {
-                      "id": 2,
-                      "name": "John Shed",
-                      "photo": "https://randomuser.me/api/portraits/women/92.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    },
-                    {
-                      "id": 3,
-                      "name": "Juan Raul",
-                      "photo": "https://randomuser.me/api/portraits/men/66.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    }
-                  ]
-                },
-                {
-                  "Back4": [
-                    {
-                      "id": 1,
-                      "name": "John Doe",
-                      "photo": "https://randomuser.me/api/portraits/men/67.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    },
-                    {
-                      "id": 2,
-                      "name": "John Shed",
-                      "photo": "https://randomuser.me/api/portraits/women/50.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    },
-                    {
-                      "id": 3,
-                      "name": "Juan Raul",
-                      "photo": "https://randomuser.me/api/portraits/men/30.jpg",
                       "calificaciones": {
                         "workshop": {
                           "fecha": "2023-07-01",
@@ -488,9 +300,11 @@
         {
           "Analisis de datos": [
             {
-              "Fundamentos": [
+              "cohortes": [
                 {
-                  "Datos1": [
+                  "nombre": "Datos1",
+                  "fundamentos": true,
+                  "estudiantes": [
                     {
                       "id": 1,
                       "name": "John Doe",
@@ -537,9 +351,15 @@
                       }
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "cohortes": [
                 {
-                  "Datos2": [
+                  "nombre": "Datos2",
+                  "fundamentos": false,
+                  "estudiantes": [
                     {
                       "id": 1,
                       "name": "John Doe",
@@ -574,109 +394,6 @@
                       "id": 3,
                       "name": "Juan Raul",
                       "photo": "https://randomuser.me/api/portraits/men/60.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    }
-                  ]
-                }
-              ]
-              
-            },
-            {
-              "Profundizacion": [
-                {
-                  "Datos3": [
-                    {
-                      "id": 1,
-                      "name": "John Doe",
-                      "photo": "https://randomuser.me/api/portraits/men/98.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    },
-                    {
-                      "id": 2,
-                      "name": "John Shed",
-                      "photo": "https://randomuser.me/api/portraits/women/92.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    },
-                    {
-                      "id": 3,
-                      "name": "Juan Raul",
-                      "photo": "https://randomuser.me/api/portraits/men/66.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    }
-                  ]
-                },
-                {
-                  "Datos4": [
-                    {
-                      "id": 1,
-                      "name": "John Doe",
-                      "photo": "https://randomuser.me/api/portraits/men/67.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    },
-                    {
-                      "id": 2,
-                      "name": "John Shed",
-                      "photo": "https://randomuser.me/api/portraits/women/50.jpg",
-                      "calificaciones": {
-                        "workshop": {
-                          "fecha": "2023-07-01",
-                          "nota": 8
-                        },
-                        "sprint": {
-                          "fecha": "2023-07-05",
-                          "nota": 9
-                        }
-                      }
-                    },
-                    {
-                      "id": 3,
-                      "name": "Juan Raul",
-                      "photo": "https://randomuser.me/api/portraits/men/30.jpg",
                       "calificaciones": {
                         "workshop": {
                           "fecha": "2023-07-01",
