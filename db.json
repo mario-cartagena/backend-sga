@@ -112,8 +112,6 @@
     }
   ],
   "students": [
-    {
-      "entrenamiento": [
         {
           "Frontend": [
             {
@@ -456,7 +454,5 @@
             }
           ]
         }
-      ]
-    }
   ]
 }
