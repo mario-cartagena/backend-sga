@@ -64,6 +64,24 @@
       "email": "echeverriana@gmail.com",
       "contraseña": 7896,
       "rol": "administrador"
+    },
+    {
+      "nombre_completo": "Juana Daza",
+      "tipo_documento": "Cédula",
+      "numero_documento": "122344",
+      "email": "luisafernandaurrego89@gmail.com",
+      "contraseña": "6789",
+      "rol": "default",
+      "id": 5
+    },
+    {
+      "nombre_completo": "Jhon Cartagena",
+      "tipo_documento": "Cédula",
+      "numero_documento": "6765436",
+      "email": "jhonmario@gmail.com",
+      "contraseña": "234567",
+      "rol": "administrador",
+      "id": 6
     }
   ],
   "students": [
@@ -77,8 +95,13 @@
                   "Front1": [
                     {
                       "id": 1,
-                      "name": "John Doe",
+                      "name": "Jose",
+                      "lastname": "San Miguel",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"178986383",
+                      "email": "josesanmiguel@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+
                       "calificaciones": {
                         "workshop": {
                           "fecha": "2023-07-01",
@@ -92,7 +115,11 @@
                     },
                     {
                       "id": 2,
-                      "name": "John Shed",
+                      "name": "Angie",
+                      "lastname": "Moreno",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"68577363",
+                      "email": "angiemoreno@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/90.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -107,7 +134,11 @@
                     },
                     {
                       "id": 3,
-                      "name": "Juan Raul",
+                      "name": "Luisa",
+                      "lastname": "Urrego",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"109873665",
+                      "email": "josesanmiguel@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/50.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -126,7 +157,11 @@
                   "Front2": [
                     {
                       "id": 1,
-                      "name": "John Doe",
+                      "name": "Yesid",
+                      "lastname": "Vanegas",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"1983645380",
+                      "email": "yesidvanegas@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/99.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -141,7 +176,11 @@
                     },
                     {
                       "id": 2,
-                      "name": "John Shed",
+                      "name": "Jhon Mario",
+                      "lastname": "Cartagena",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"17163736",
+                      "email": "jhonmariocartagena@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/women/90.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -156,7 +195,11 @@
                     },
                     {
                       "id": 3,
-                      "name": "Juan Raul",
+                      "name": "Julian",
+                      "lastname": "Vargas",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"13535653",
+                      "email": "julianvargas@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/60.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -179,7 +222,11 @@
                   "Front3": [
                     {
                       "id": 1,
-                      "name": "John Doe",
+                      "name": "Juan",
+                      "lastname": "Torres",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"19986345",
+                      "email": "juantorres@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/98.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -194,7 +241,11 @@
                     },
                     {
                       "id": 2,
-                      "name": "John Shed",
+                      "name": "Hector",
+                      "lastname": "Ocampo",
+                      "tipo_documento":"Tarjeta de Identidad",
+                      "numero_documento":"1222339474",
+                      "email": "hectorocampo@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/women/92.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -209,7 +260,11 @@
                     },
                     {
                       "id": 3,
-                      "name": "Juan Raul",
+                      "name": "Ricardo",
+                      "lastname": "Velez",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"126377343",
+                      "email": "ricardo@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/66.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -228,7 +283,11 @@
                   "Front4": [
                     {
                       "id": 1,
-                      "name": "John Doe",
+                      "name": "Gabriela",
+                      "lastname": "Pardo",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"178986383",
+                      "email": "gabypardo@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/67.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -243,7 +302,11 @@
                     },
                     {
                       "id": 2,
-                      "name": "John Shed",
+                      "name": "Manuela",
+                      "lastname": "Alvarez",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"178986383",
+                      "email": "manualvarez@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/women/50.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -258,7 +321,11 @@
                     },
                     {
                       "id": 3,
-                      "name": "Juan Raul",
+                      "name": "Miguel",
+                      "lastname": "Martinez",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"12393494",
+                      "email": "miguemartinez@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/30.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -285,7 +352,11 @@
                   "Back1": [
                     {
                       "id": 1,
-                      "name": "John Doe",
+                      "name": "Daniela",
+                      "lastname": "Marulanda",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"122384990",
+                      "email": "danimarulanda@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/1.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -300,7 +371,11 @@
                     },
                     {
                       "id": 2,
-                      "name": "John Shed",
+                      "name": "Juliana",
+                      "lastname": "Gaviria ",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"123484908",
+                      "email": "juligaviria@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/90.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -315,7 +390,11 @@
                     },
                     {
                       "id": 3,
-                      "name": "Juan Raul",
+                      "name": "Esteban",
+                      "lastname": "Garcia",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"12385743",
+                      "email": "garciaesteban@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/50.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -334,7 +413,11 @@
                   "Back2": [
                     {
                       "id": 1,
-                      "name": "John Doe",
+                      "name": "Santiago",
+                      "lastname": "Ramirez",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"12878373",
+                      "email": "santiramirez@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/99.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -349,7 +432,11 @@
                     },
                     {
                       "id": 2,
-                      "name": "John Shed",
+                      "name": "Valentina",
+                      "lastname": "Quiroz",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"129568503",
+                      "email": "quirozvalen@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/women/90.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -364,7 +451,11 @@
                     },
                     {
                       "id": 3,
-                      "name": "Juan Raul",
+                      "name": "Adriana",
+                      "lastname": "Hernandez",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"128574835",
+                      "email": "josesanmiguel@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/60.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -387,7 +478,11 @@
                   "Back3": [
                     {
                       "id": 1,
-                      "name": "John Doe",
+                      "name": "Daniel",
+                      "lastname": "Fernandez",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"124638594",
+                      "email": "danifernandez@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/98.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -402,7 +497,11 @@
                     },
                     {
                       "id": 2,
-                      "name": "John Shed",
+                      "name": "David",
+                      "lastname": "Jurado",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"128374635",
+                      "email": "juradotobondavid@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/women/92.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -417,7 +516,11 @@
                     },
                     {
                       "id": 3,
-                      "name": "Juan Raul",
+                      "name": "Sebastian",
+                      "lastname": "Ocampo",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"1384857394",
+                      "email": "sebasocampo@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/66.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -436,7 +539,11 @@
                   "Back4": [
                     {
                       "id": 1,
-                      "name": "John Doe",
+                      "name": "Lina",
+                      "lastname": "Villa",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"1283744",
+                      "email": "linavilla@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/67.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -451,7 +558,11 @@
                     },
                     {
                       "id": 2,
-                      "name": "John Shed",
+                      "name": "Paola",
+                      "lastname": "Martinez",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"128464834",
+                      "email": "paomartinez@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/women/50.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -466,7 +577,11 @@
                     },
                     {
                       "id": 3,
-                      "name": "Juan Raul",
+                      "name": "Rocio",
+                      "lastname": "Gomez",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"1293745633",
+                      "email": "rociogomez@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/30.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -493,7 +608,11 @@
                   "Datos1": [
                     {
                       "id": 1,
-                      "name": "John Doe",
+                      "name": "Nicolas",
+                      "lastname": "Hernandez",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"128374637",
+                      "email": "nicohernandez@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/1.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -508,7 +627,11 @@
                     },
                     {
                       "id": 2,
-                      "name": "John Shed",
+                      "name": "Andres",
+                      "lastname": "Carmona",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"12834524",
+                      "email": "andrescarmona@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/90.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -523,7 +646,11 @@
                     },
                     {
                       "id": 3,
-                      "name": "Juan Raul",
+                      "name": "Camilo",
+                      "lastname": "Ospina",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"183273374",
+                      "email": "ospinacami@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/50.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -542,7 +669,11 @@
                   "Datos2": [
                     {
                       "id": 1,
-                      "name": "John Doe",
+                      "name": "Brahian",
+                      "lastname": "Cardona",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"1283643634",
+                      "email": "brahiancardona@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/99.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -557,7 +688,11 @@
                     },
                     {
                       "id": 2,
-                      "name": "John Shed",
+                      "name": "Beatriz",
+                      "lastname": "Gutierrez",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"183645274",
+                      "email": "beatrizgutierrez@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/women/90.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -572,7 +707,11 @@
                     },
                     {
                       "id": 3,
-                      "name": "Juan Raul",
+                      "name": "Samuel",
+                      "lastname": "Roman",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"12837484",
+                      "email": "samuroman@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/60.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -588,7 +727,6 @@
                   ]
                 }
               ]
-              
             },
             {
               "Profundizacion": [
@@ -596,7 +734,11 @@
                   "Datos3": [
                     {
                       "id": 1,
-                      "name": "John Doe",
+                      "name": "Gloria",
+                      "lastname": "Toro",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"183646273",
+                      "email": "torogloria@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/98.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -611,7 +753,11 @@
                     },
                     {
                       "id": 2,
-                      "name": "John Shed",
+                      "name": "Cristian",
+                      "lastname": "Santos",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"178986383",
+                      "email": "cristiansantos@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/women/92.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -626,7 +772,11 @@
                     },
                     {
                       "id": 3,
-                      "name": "Juan Raul",
+                      "name": "Julian",
+                      "lastname": "Bedoya",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"182736383",
+                      "email": "julibedoya@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/66.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -645,7 +795,11 @@
                   "Datos4": [
                     {
                       "id": 1,
-                      "name": "John Doe",
+                      "name": "Jeronimo",
+                      "lastname": "Betancur",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"18376283",
+                      "email": "jerobetancur@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/67.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -660,7 +814,11 @@
                     },
                     {
                       "id": 2,
-                      "name": "John Shed",
+                      "name": "Laura",
+                      "lastname": "Rios",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"183747384",
+                      "email": "rioslau@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/women/50.jpg",
                       "calificaciones": {
                         "workshop": {
@@ -675,7 +833,11 @@
                     },
                     {
                       "id": 3,
-                      "name": "Juan Raul",
+                      "name": "Luis",
+                      "lastname": "Ospina",
+                      "tipo_documento":"Cédula",
+                      "numero_documento":"178986383",
+                      "email": "josesanmiguel@gmail.com",
                       "photo": "https://randomuser.me/api/portraits/men/30.jpg",
                       "calificaciones": {
                         "workshop": {
