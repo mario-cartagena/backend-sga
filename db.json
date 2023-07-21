@@ -138,7 +138,7 @@
   "estudiantes": [
     {
       "id": 1,
-      "tipo_documeto": "CC",
+      "tipoDocumeto": "CC",
       "numeroDocumento": 148474374,
       "telefono": "323423345",
       "name": "Juan",
