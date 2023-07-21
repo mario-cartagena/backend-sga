@@ -913,6 +913,9 @@
   "estudiantes": [
     {
       "id": 1,
+      "tipo_documeto": "CC",
+      "numero_documento": 148474374,
+      "telefono": "323423345",
       "name": "Juan",
       "lastname": "Pérez",
       "tipo_entrenamiento": "Frontend",
@@ -933,6 +936,9 @@
     },
     {
       "id": 2,
+      "tipo_documeto": "CC",
+      "numero_documento": 148474374,
+      "telefono": "323423345",
       "name": "María",
       "lastname": "González",
       "tipo_entrenamiento": "Backend",
@@ -953,6 +959,9 @@
     },
     {
       "id": 3,
+      "tipo_documeto": "CC",
+      "numero_documento": 148474374,
+      "telefono": "323423345",
       "name": "Carlos",
       "lastname": "Ramírez",
       "tipo_entrenamiento": "Analisis de datos",
@@ -973,6 +982,9 @@
     },
     {
       "id": 4,
+      "tipo_documeto": "CC",
+      "numero_documento": 148474374,
+      "telefono": "323423345",
       "name": "Laura",
       "lastname": "Gutiérrez",
       "tipo_entrenamiento": "Frontend",
@@ -993,6 +1005,9 @@
     },
     {
       "id": 5,
+      "tipo_documeto": "CC",
+      "numero_documento": 148474374,
+      "telefono": "323423345",
       "name": "Pedro",
       "lastname": "López",
       "tipo_entrenamiento": "Backend",
@@ -1013,6 +1028,9 @@
     },
     {
       "id": 6,
+      "tipo_documeto": "CC",
+      "numero_documento": 148474374,
+      "telefono": "323423345",
       "name": "Ana",
       "lastname": "Martínez",
       "tipo_entrenamiento": "Analisis de datos",
@@ -1033,6 +1051,9 @@
     },
     {
       "id": 7,
+      "tipo_documeto": "CC",
+      "numero_documento": 148474374,
+      "telefono": "323423345",
       "name": "Miguel",
       "lastname": "Sánchez",
       "tipo_entrenamiento": "Frontend",
@@ -1053,6 +1074,9 @@
     },
     {
       "id": 8,
+      "tipo_documeto": "CC",
+      "numero_documento": 148474374,
+      "telefono": "323423345",
       "name": "Sara",
       "lastname": "Gómez",
       "tipo_entrenamiento": "Backend",
@@ -1073,6 +1097,9 @@
     },
     {
       "id": 9,
+      "tipo_documeto": "CC",
+      "numero_documento": 148474374,
+      "telefono": "323423345",
       "name": "Diego",
       "lastname": "Hernández",
       "tipo_entrenamiento": "Analisis de datos",
@@ -1093,6 +1120,9 @@
     },
     {
       "id": 10,
+      "tipo_documeto": "CC",
+      "numero_documento": 148474374,
+      "telefono": "323423345",
       "name": "Julio",
       "lastname": "Torres",
       "tipo_entrenamiento": "Frontend",
