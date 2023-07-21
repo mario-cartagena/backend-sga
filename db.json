@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "cursos": [
     {
       "id": "frontend1",
@@ -127,117 +128,89 @@
   ],
   
   "eventosFrontend3": [
+=======
+  "eventos": [
+>>>>>>> 112539cb90ff0273fe6a66a9b6dbed0ea61bbeea
     {
-      "id": "1",
+      "id": 1,
       "title": "Clase de HTML5",
       "start": "2023-07-14T10:00:00",
       "end": "2023-07-14T12:00:00"
-    },
-    {
-      "id": "2",
-      "title": "CRUD con Redux",
-      "start": "2023-07-06T14:00:00",
-      "end": "2023-07-06T14:30:00"
-    },
-    {
-      "id": "3",
-      "title": "Introducción a React JS",
-      "start": "2023-07-08T09:00:00",
-      "end": "2023-07-08T11:00:00"
-    },
-    {
-      "recursosEndpoint": "http://localhost:3000/recursosEndpoint1"
-    },
-    {
-      "curso": {
-        "imagen": "ruta_de_la_imagen.jpg",
-        "titulo": "Título del Curso",
-        "descripcion": "Descripción del curso",
-        "duracion": "4 horas",
-        "instructor": "Nombre del Instructor"
-      }
-    }
-  ],
-  "usuarios": [
-    {
-      "id": 1,
-      "email": "jhon.cartagena@gmail.com",
-      "password": "Jhon123*",
-      "rol": "administrador"
     },
     {
       "id": 2,
-      "email": "luisa.urrego@gmail.com",
-      "password": "Luisa123*",
-      "rol": "formador"
-    },
-    {
-      "id": 3,
-      "email": "yesid.vanegas@gmail.com",
-      "password": "Yesid123*",
-      "rol": "participante"
-    }
-  ],
-  "eventos": [
-    {
-      "id": "1",
-      "title": "Clase de HTML5",
-      "start": "2023-07-14T10:00:00",
-      "end": "2023-07-14T12:00:00"
-    },
-    {
-      "id": "2",
       "title": "CRUD con Redux",
       "start": "2023-07-06T14:00:00",
       "end": "2023-07-06T14:30:00"
     },
     {
-      "id": "3",
+      "id": 3,
       "title": "Introducción a React JS",
       "start": "2023-07-08T09:00:00",
       "end": "2023-07-08T11:00:00"
     },
     {
-      "id": "4",
+      "id": 4,
       "title": "Taller de Diseño de Interfaces Web",
       "start": "2023-07-20T14:00:00",
       "end": "2023-07-20T16:00:00"
     },
     {
-      "id": "5",
+      "id": 5,
       "title": "Charla sobre Optimización de Código JavaScript",
       "start": "2023-07-22T11:00:00",
       "end": "2023-07-22T12:30:00"
     },
     {
-      "id": "6",
+      "id": 6,
       "title": "Workshop de Animaciones CSS",
       "start": "2023-07-24T15:00:00",
       "end": "2023-07-24T17:00:00"
     },
     {
-      "id": "7",
+      "id": 7,
       "title": "Conferencia sobre Desarrollo Web Responsivo",
       "start": "2023-07-26T09:30:00",
       "end": "2023-07-26T11:30:00"
     },
     {
-      "id": "8",
+      "id": 8,
       "title": "Curso de Frameworks Frontend",
       "start": "2023-07-28T13:00:00",
       "end": "2023-07-28T16:00:00"
     },
     {
-      "id": "9",
+      "id": 9,
       "title": "Webinar sobre Testing en Desarrollo Frontend",
       "start": "2023-07-30T10:00:00",
       "end": "2023-07-30T12:00:00"
     },
     {
-      "id": "10",
+      "id": 10,
       "title": "Hackathon de Desarrollo Frontend",
       "start": "2023-08-01T18:00:00",
       "end": "2023-08-01T20:00:00"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "CRUD con react",
+      "start": "2023-07-07T16:51:00",
+      "end": "2023-07-07T18:51:00",
+      "id": 11
+    },
+    {
+      "title": "Redux Toolkit ",
+      "start": "2023-07-18T14:00:00",
+      "end": "2023-07-18T16:00:00",
+      "id": 12
+    },
+    {
+      "title": "Despliegue de aplicaciones ",
+      "start": "2023-07-19T16:11:00",
+      "end": "2023-07-19T17:11:00",
+      "id": 13
+>>>>>>> 112539cb90ff0273fe6a66a9b6dbed0ea61bbeea
     }
   ],
   "administradores": [
@@ -276,62 +249,46 @@
       "email": "echeverriana@gmail.com",
       "contraseña": 7896,
       "rol": "administrador"
+    },
+    {
+      "nombre_completo": "Juana Daza",
+      "tipo_documento": "Cédula",
+      "numero_documento": "122344",
+      "email": "luisafernandaurrego89@gmail.com",
+      "contraseña": "6789",
+      "rol": "default",
+      "id": 5
+    },
+    {
+      "nombre_completo": "Jhon Cartagena",
+      "tipo_documento": "Cédula",
+      "numero_documento": "6765436",
+      "email": "jhonmario@gmail.com",
+      "contraseña": "234567",
+      "rol": "administrador",
+      "id": 6
     }
   ],
-  "students": [
+  "estudiantes": [
     {
-      "Frontend": [
-        {
-          "nombre": "Front1",
-          "fundamentos": true,
-          "estudiantes": [
-            {
-              "id": 1,
-              "name": "John Doe",
-              "photo": "https://randomuser.me/api/portraits/men/1.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            },
-            {
-              "id": 2,
-              "name": "John Shed",
-              "photo": "https://randomuser.me/api/portraits/men/90.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            },
-            {
-              "id": 3,
-              "name": "Juan Raul",
-              "photo": "https://randomuser.me/api/portraits/men/50.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            }
-          ]
+      "id": 1,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "148474374",
+      "telefono": "323423345",
+      "name": "Juan",
+      "lastname": "Pérez",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "asistencia": 3,
+      "email": "juan.perez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 8
         },
+<<<<<<< HEAD
         {
           "nombre": "Front2",
           "fundamentos": false,
@@ -382,220 +339,229 @@
               }
             }
           ]
+=======
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 9
+>>>>>>> 112539cb90ff0273fe6a66a9b6dbed0ea61bbeea
         }
-      ]
+      }
     },
     {
-      "Backend": [
-        {
-          "nombre": "Back1",
-          "fundamentos": true,
-          "estudiantes": [
-            {
-              "id": 1,
-              "name": "John Doe",
-              "photo": "https://randomuser.me/api/portraits/men/1.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            },
-            {
-              "id": 2,
-              "name": "John Shed",
-              "photo": "https://randomuser.me/api/portraits/men/90.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            },
-            {
-              "id": 3,
-              "name": "Juan Raul",
-              "photo": "https://randomuser.me/api/portraits/men/50.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            }
-          ]
+      "id": 2,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "147890234",
+      "telefono": "323423345",
+      "name": "María",
+      "lastname": "González",
+      "tipo_entrenamiento": "Backend",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "asistencia": 7,
+      "email": "maria.gonzalez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 7
         },
-        {
-          "nombre": "Back2",
-          "fundamentos": false,
-          "estudiantes": [
-            {
-              "id": 1,
-              "name": "John Doe",
-              "photo": "https://randomuser.me/api/portraits/men/99.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            },
-            {
-              "id": 2,
-              "name": "John Shed",
-              "photo": "https://randomuser.me/api/portraits/women/90.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            },
-            {
-              "id": 3,
-              "name": "Juan Raul",
-              "photo": "https://randomuser.me/api/portraits/men/60.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            }
-          ]
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 8
         }
-      ]
+      }
     },
     {
-      "Analisis de datos": [
-        {
-          "nombre": "Datos1",
-          "fundamentos": true,
-          "estudiantes": [
-            {
-              "id": 1,
-              "name": "John Doe",
-              "photo": "https://randomuser.me/api/portraits/men/1.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            },
-            {
-              "id": 2,
-              "name": "John Shed",
-              "photo": "https://randomuser.me/api/portraits/men/90.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            },
-            {
-              "id": 3,
-              "name": "Juan Raul",
-              "photo": "https://randomuser.me/api/portraits/men/50.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            }
-          ]
+      "id": 3,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "448474374",
+      "telefono": "323423345",
+      "name": "Carlos",
+      "lastname": "Ramírez",
+      "tipo_entrenamiento": "Analisis de datos",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "asistencia": 1,
+      "email": "carlos.ramirez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/3.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 9
         },
-        {
-          "nombre": "Datos2",
-          "fundamentos": false,
-          "estudiantes": [
-            {
-              "id": 1,
-              "name": "John Doe",
-              "photo": "https://randomuser.me/api/portraits/men/99.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            },
-            {
-              "id": 2,
-              "name": "John Shed",
-              "photo": "https://randomuser.me/api/portraits/women/90.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            },
-            {
-              "id": 3,
-              "name": "Juan Raul",
-              "photo": "https://randomuser.me/api/portraits/men/60.jpg",
-              "calificaciones": {
-                "workshop": {
-                  "fecha": "2023-07-01",
-                  "nota": 8
-                },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
-                }
-              }
-            }
-          ]
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 8
         }
-      ]
+      }
+    },
+    {
+      "id": 4,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "548474374",
+      "telefono": "323423345",
+      "name": "Laura",
+      "lastname": "Gutiérrez",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "asistencia": 8,
+      "email": "laura.gutierrez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/4.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 8
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 7
+        }
+      }
+    },
+    {
+      "id": 5,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "648474374",
+      "telefono": "323423345",
+      "name": "Pedro",
+      "lastname": "López",
+      "tipo_entrenamiento": "Backend",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "asistencia": 9,
+      "email": "pedro.lopez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/5.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 7
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 8
+        }
+      }
+    },
+    {
+      "id": 6,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "948474374",
+      "telefono": "323423345",
+      "name": "Ana",
+      "lastname": "Martínez",
+      "tipo_entrenamiento": "Analisis de datos",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "asistencia": 6,
+      "email": "ana.martinez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/6.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 9
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 8
+        }
+      }
+    },
+    {
+      "id": 7,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "798474374",
+      "telefono": "323423345",
+      "name": "Miguel",
+      "lastname": "Sánchez",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "asistencia": 7,
+      "email": "miguel.sanchez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/7.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 8
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 9
+        }
+      }
+    },
+    {
+      "id": 8,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "948474374",
+      "telefono": "323423345",
+      "name": "Sara",
+      "lastname": "Gómez",
+      "tipo_entrenamiento": "Backend",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "asistencia": 8,
+      "email": "sara.gomez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/8.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 7
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 8
+        }
+      }
+    },
+    {
+      "id": 9,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "558474374",
+      "telefono": "323423345",
+      "name": "Diego",
+      "lastname": "Hernández",
+      "tipo_entrenamiento": "Analisis de datos",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "asistencia": 2,
+      "email": "diego.hernandez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/9.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 9
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 8
+        }
+      }
+    },
+    {
+      "id": 10,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "898474374",
+      "telefono": "323423345",
+      "name": "Julio",
+      "lastname": "Torres",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "asistencia": 7,
+      "email": "julio.torres@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/10.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 8
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 7
+        }
+      }
     }
   ]
 }
