@@ -146,6 +146,7 @@
       "tipo_entrenamiento": "Frontend",
       "modulo": "Fundamentos",
       "cohorte": 1,
+      "asistencia": 3,
       "email": "juan.perez@example.com",
       "photo": "https://randomuser.me/api/portraits/men/1.jpg",
       "calificaciones": {
@@ -169,6 +170,7 @@
       "tipo_entrenamiento": "Backend",
       "modulo": "Profundización",
       "cohorte": 2,
+      "asistencia": 7,
       "email": "maria.gonzalez@example.com",
       "photo": "https://randomuser.me/api/portraits/women/2.jpg",
       "calificaciones": {
@@ -192,6 +194,7 @@
       "tipo_entrenamiento": "Analisis de datos",
       "modulo": "Fundamentos",
       "cohorte": 1,
+      "asistencia": 1,
       "email": "carlos.ramirez@example.com",
       "photo": "https://randomuser.me/api/portraits/men/3.jpg",
       "calificaciones": {
@@ -215,6 +218,7 @@
       "tipo_entrenamiento": "Frontend",
       "modulo": "Profundización",
       "cohorte": 2,
+      "asistencia": 8,
       "email": "laura.gutierrez@example.com",
       "photo": "https://randomuser.me/api/portraits/women/4.jpg",
       "calificaciones": {
@@ -238,6 +242,7 @@
       "tipo_entrenamiento": "Backend",
       "modulo": "Fundamentos",
       "cohorte": 1,
+      "asistencia": 9,
       "email": "pedro.lopez@example.com",
       "photo": "https://randomuser.me/api/portraits/men/5.jpg",
       "calificaciones": {
@@ -261,6 +266,7 @@
       "tipo_entrenamiento": "Analisis de datos",
       "modulo": "Profundización",
       "cohorte": 2,
+      "asistencia": 6,
       "email": "ana.martinez@example.com",
       "photo": "https://randomuser.me/api/portraits/women/6.jpg",
       "calificaciones": {
@@ -284,6 +290,7 @@
       "tipo_entrenamiento": "Frontend",
       "modulo": "Fundamentos",
       "cohorte": 1,
+      "asistencia": 7,
       "email": "miguel.sanchez@example.com",
       "photo": "https://randomuser.me/api/portraits/men/7.jpg",
       "calificaciones": {
@@ -307,6 +314,7 @@
       "tipo_entrenamiento": "Backend",
       "modulo": "Profundización",
       "cohorte": 2,
+      "asistencia": 8,
       "email": "sara.gomez@example.com",
       "photo": "https://randomuser.me/api/portraits/women/8.jpg",
       "calificaciones": {
@@ -330,6 +338,7 @@
       "tipo_entrenamiento": "Analisis de datos",
       "modulo": "Fundamentos",
       "cohorte": 1,
+      "asistencia": 2,
       "email": "diego.hernandez@example.com",
       "photo": "https://randomuser.me/api/portraits/men/9.jpg",
       "calificaciones": {
@@ -353,6 +362,7 @@
       "tipo_entrenamiento": "Frontend",
       "modulo": "Profundización",
       "cohorte": 2,
+      "asistencia": 7,
       "email": "julio.torres@example.com",
       "photo": "https://randomuser.me/api/portraits/men/10.jpg",
       "calificaciones": {
