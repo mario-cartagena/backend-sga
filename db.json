@@ -909,5 +909,207 @@
         }
       ]
     }
+  ],
+  "estudiantes": [
+    {
+      "id": 1,
+      "name": "Juan",
+      "lastname": "Pérez",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "email": "juan.perez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 8
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 9
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "María",
+      "lastname": "González",
+      "tipo_entrenamiento": "Backend",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "email": "maria.gonzalez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 7
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 8
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Carlos",
+      "lastname": "Ramírez",
+      "tipo_entrenamiento": "Analisis de datos",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "email": "carlos.ramirez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/3.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 9
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 8
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Laura",
+      "lastname": "Gutiérrez",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "email": "laura.gutierrez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/4.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 8
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 7
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Pedro",
+      "lastname": "López",
+      "tipo_entrenamiento": "Backend",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "email": "pedro.lopez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/5.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 7
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 8
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Ana",
+      "lastname": "Martínez",
+      "tipo_entrenamiento": "Analisis de datos",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "email": "ana.martinez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/6.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 9
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 8
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Miguel",
+      "lastname": "Sánchez",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "email": "miguel.sanchez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/7.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 8
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 9
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Sara",
+      "lastname": "Gómez",
+      "tipo_entrenamiento": "Backend",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "email": "sara.gomez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/8.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 7
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 8
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Diego",
+      "lastname": "Hernández",
+      "tipo_entrenamiento": "Analisis de datos",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "email": "diego.hernandez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/9.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 9
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 8
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Julio",
+      "lastname": "Torres",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "email": "julio.torres@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/10.jpg",
+      "calificaciones": {
+        "workshop": {
+          "fecha": "2023-07-01",
+          "nota": 8
+        },
+        "sprint": {
+          "fecha": "2023-07-05",
+          "nota": 7
+        }
+      }
+    }
   ]
 }
