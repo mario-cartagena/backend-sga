@@ -139,7 +139,7 @@
     {
       "id": 1,
       "tipo_documeto": "CC",
-      "numero_documento": 148474374,
+      "numeroDocumento": 148474374,
       "telefono": "323423345",
       "name": "Juan",
       "lastname": "Pérez",
