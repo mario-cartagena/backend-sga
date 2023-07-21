@@ -1,5 +1,131 @@
 {
-  "recursosEndpoint1": [],
+  "cursos": [
+    {
+      "id": "frontend1",
+      "titulo": "FRONTEND1",
+      "descripcion": "Aprende a construir páginas web dinámicas utilizando las últimas tecnologías front-end como HTML5, CSS3 y JavaScript. Descubre cómo crear una experiencia interactiva y atractiva para los usuarios y domina el desarrollo web moderno.",
+      "duracion": "4 meses",
+      "instructor": "John Doe",
+      "recursosEndpoint": "http://localhost:3000/recursos/frontend1"
+    },
+    {
+      "id": "frontend2",
+      "titulo": "FRONTEND2",
+      "descripcion": "Sumérgete en el mundo del desarrollo de aplicaciones backend con Node.js y Express. Aprende a crear servidores robustos y escalables, manejar bases de datos, implementar autenticación y diseñar API RESTful para tus aplicaciones web y móviles.",
+      "duracion": "4 meses",
+      "instructor": "Jane Smith",
+      "recursosEndpoint": "http://localhost:3000/recursos/frontend2"
+    },
+    {
+      "id": "frontend3",
+      "titulo": "FRONTEND3",
+      "descripcion": "Introducción a React JS",
+      "duracion": "4 meses",
+      "instructor": "Mike Johnson",
+      "recursosEndpoint": "http://localhost:3000/recursos/frontend3"
+    },
+    {
+      "id": "backend1",
+      "titulo": "BACKEND1",
+      "descripcion": "Aprende a construir aplicaciones backend poderosas con Node.js. Domina conceptos avanzados como manejo de rutas, autenticación de usuarios y conexión a bases de datos, para crear aplicaciones web escalables y seguras.",
+      "duracion": "4 meses",
+      "instructor": "Robert Smith",
+      "recursosEndpoint": "http://localhost:3000/recursos/backend1"
+    },
+    {
+      "id": "backend2",
+      "titulo": "BACKEND2",
+      "descripcion": "Descubre cómo crear aplicaciones web dinámicas y eficientes utilizando el framework Express para Node.js. Aprende a diseñar API RESTful, manejar solicitudes HTTP y gestionar la lógica de negocio de tus aplicaciones.",
+      "duracion": "4 meses",
+      "instructor": "Laura Johnson",
+      "recursosEndpoint": "http://localhost:3000/recursos/backend2"
+    }
+  ],
+
+    "recursos": {
+      "grabacion": {
+        "frontend1": [],
+        "frontend2": [],
+        "backend1": [],
+        "backend2": []
+      },
+      "diapositivas": {
+        "frontend1": [],
+        "frontend2": [],
+        "backend1": [],
+        "backend2": []
+      }
+      
+    },
+  
+  "recursos2": {
+    "frontend1": {
+      "grabacion": [],
+      "diapositivas": [],
+      "lectura": [],
+      "ejercicios": [],
+      "ejercicios_obligatorios": []
+    },
+    "frontend2": {
+      "grabacion": [],
+      "diapositivas": [],
+      "lectura": [],
+      "ejercicios": [],
+      "ejercicios_obligatorios": []
+    },
+    "frontend3": {
+      "grabacion": [],
+      "diapositivas": [],
+      "lectura": [],
+      "ejercicios": [],
+      "ejercicios_obligatorios": []
+    },
+    "backend1": {
+      "grabacion": [],
+      "diapositivas": [],
+      "lectura": [],
+      "ejercicios": [],
+      "ejercicios_obligatorios": []
+    },
+    "backend2": {
+      "grabacion": [],
+      "diapositivas": [],
+      "lectura": [],
+      "ejercicios": [],
+      "ejercicios_obligatorios": []
+    }
+  }
+
+,
+  
+  "recursosEndpoint1": [
+    {
+      "modulo": "1g",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 1
+    }
+  ],
+  "recursosEndpoint2": [
+    {
+      "modulo": "1g",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 1
+    }
+  ],
+  "recursosEndpoint3": [
+    {
+      "modulo": "1g",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 1
+    }
+  ],
+  
   "eventosFrontend3": [
     {
       "id": "1",
@@ -112,7 +238,7 @@
       "title": "Hackathon de Desarrollo Frontend",
       "start": "2023-08-01T18:00:00",
       "end": "2023-08-01T20:00:00"
-    }   
+    }
   ],
   "administradores": [
     {
@@ -206,7 +332,6 @@
             }
           ]
         },
-
         {
           "nombre": "Front2",
           "fundamentos": false,
