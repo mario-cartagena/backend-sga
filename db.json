@@ -1,270 +1,315 @@
-{ 
-   "FrontendFundamentos1": [],
-   "FrontendAvanzado1": [],
-
-"entrenamientos": [
-  {
-    "id_entrenamiento": 1,
-    "nombre": "Frontend Fundamentos",
-    "id_contenido": "FrontendFundamentos1" 
-  },
-  {
-    "id_entrenamiento": 2,
-    "nombre": "Frontend Avanzado",
-    "id_contenido": "FrontendAvanzado1" 
-  }
-
-],
-"etapas": [
-  {
-    "id_etapa": 1,
-    "nombre": "Etapa Inicial"
-  },
-  {
-    "id_etapa": 2,
-    "nombre": "Etapa Avanzada"
-  }
-]
-,
-"cursos": [
-  {
-    "id": "frontend1",
-    "titulo": "FRONTEND1",
-    "descripcion": "Aprende a construir páginas web dinámicas utilizando las últimas tecnologías front-end como HTML5, CSS3 y JavaScript. Descubre cómo crear una experiencia interactiva y atractiva para los usuarios y domina el desarrollo web moderno.",
-    "duracion": "4 meses",
-    "instructor": "John Doe",
-    "id_formador": "john.doe@example.com", 
-    "recursosEndpoint": "http://localhost:3000/recursos/frontend1",
-    "id_entrenamiento": "entrenamiento1",
-    "id_etapa": "etapa1",
-    "id_contenido":"FrontendFundamentos1",
-    "contenidos_del_curso": [
-      {
-        "tema": "Introducción a HTML5",
-        "descripcion": "Conoce los conceptos básicos de HTML5 y cómo estructurar contenido en una página web.",
-        "id_entrenamiento": "entrenamiento1",
-        "id_etapa": "etapa1"
-      },
-      {
-        "tema": "Estilos con CSS3",
-        "descripcion": "Aprende a aplicar estilos y diseño a tu página web utilizando CSS3.",
-        "id_entrenamiento": "entrenamiento1",
-        "id_etapa": "etapa2"
-      }
-    ]
-  },
-  {
-    "id": "frontend2",
-    "titulo": "FRONTEND2",
-    "descripcion": "Sumérgete en el mundo del desarrollo de aplicaciones backend con Node.js y Express. Aprende a crear servidores robustos y escalables, manejar bases de datos, implementar autenticación y diseñar API RESTful para tus aplicaciones web y móviles.",
-    "duracion": "4 meses",
-    "instructor": "Jane Smith",
-    "id_formador": "jane.smith@example.com", 
-    "recursosEndpoint": "http://localhost:3000/recursos/frontend2",
-    "id_entrenamiento": "entrenamiento2",
-    "id_etapa": "etapa1",
-    "contenidos_del_curso": [
-      {
-        "tema": "Introducción a Node.js",
-        "descripcion": "Aprende los fundamentos de Node.js y cómo crear aplicaciones backend con este entorno de ejecución.",
-        "id_entrenamiento": "entrenamiento2",
-        "id_etapa": "etapa1"
-      },
-      {
-        "tema": "Creación de API RESTful",
-        "descripcion": "Domina cómo diseñar y desarrollar una API RESTful utilizando Express y Node.js.",
-        "id_entrenamiento": "entrenamiento2",
-        "id_etapa": "etapa2"
-      }
-    ]
-  },
-  {
-    "id": "frontend3",
-    "titulo": "FRONTEND3",
-    "descripcion": "Introducción a React JS",
-    "duracion": "4 meses",
-    "instructor": "Mike Johnson",
-    "id_formador": "mike.johnson@example.com", 
-    "recursosEndpoint": "http://localhost:3000/recursos/frontend3",
-    "id_entrenamiento": "entrenamiento1",
-    "id_etapa": "etapa1",
-    "contenidos_del_curso": [
-      {
-        "tema": "Fundamentos de React",
-        "descripcion": "Aprende los conceptos básicos de React y cómo crear componentes reutilizables.",
-        "id_entrenamiento": "entrenamiento1",
-        "id_etapa": "etapa1"
-      },
-      {
-        "tema": "Gestión de Estado con Redux",
-        "descripcion": "Domina cómo utilizar Redux para gestionar el estado de tu aplicación React.",
-        "id_entrenamiento": "entrenamiento1",
-        "id_etapa": "etapa2"
-      }
-    ]
-  },
-  {
-    "id": "frontend4",
-    "titulo": "FRONTEND4",
-    "descripcion": "Desarrollo Avanzado de Frontend",
-    "duracion": "4 meses",
-    "instructor": "Laura Hernandez",
-    "id_formador": "laura.hernandez@example.com", 
-    "recursosEndpoint": "http://localhost:3000/recursos/frontend4",
-    "id_entrenamiento": "entrenamiento2",
-    "id_etapa": "etapa1",
-    "contenidos_del_curso": [
-      {
-        "tema": "Arquitectura Frontend",
-        "descripcion": "Aprende sobre patrones de diseño y arquitecturas avanzadas para aplicaciones frontend.",
-        "id_entrenamiento": "entrenamiento2",
-        "id_etapa": "etapa1"
-      },
-      {
-        "tema": "Testing en Frontend",
-        "descripcion": "Domina las técnicas y herramientas para realizar pruebas unitarias y de integración en aplicaciones frontend.",
-        "id_entrenamiento": "entrenamiento2",
-        "id_etapa": "etapa2"
-      }
-    ]
-  },
-  {
-    "id": "backend2",
-    "titulo": "BACKEND2",
-    "descripcion": "Descubre cómo crear aplicaciones web dinámicas y eficientes utilizando el framework Express para Node.js. Aprende a diseñar API RESTful, manejar solicitudes HTTP y gestionar la lógica de negocio de tus aplicaciones.",
-    "duracion": "4 meses",
-    "instructor": "Laura Johnson",
-    "id_formador": "laura.johnson@example.com", 
-    "recursosEndpoint": "http://localhost:3000/recursos/backend2",
-    "id_entrenamiento": "entrenamiento2",
-    "id_etapa": "etapa1",
-    "contenidos_del_curso": [
-      {
-        "tema": "Introducción a Express",
-        "descripcion": "Aprende a utilizar el framework Express para crear aplicaciones backend con Node.js.",
-        "id_entrenamiento": "entrenamiento2",
-        "id_etapa": "etapa1"
-      },
-      {
-        "tema": "Gestión de Base de Datos",
-        "descripcion": "Domina cómo conectar y gestionar bases de datos en aplicaciones Node.js con Express.",
-        "id_entrenamiento": "entrenamiento2",
-        "id_etapa": "etapa2"
-      }
-    ]
-  }
-
-],
-"usuarios": [
-  {
-    "id": 1,
-    "email": "jhon.cartagena@gmail.com",
-    "password": "Jhon123*",
-    "rol": "administrador",
-    "cursos_inscritos": ["frontend1", "backend1"]
-  },
-  {
-    "id": 2,
-    "email": "luisa.urrego@gmail.com",
-    "password": "Luisa123*",
-    "rol": "formador",
-    "cursos_inscritos": ["frontend2"]
-  },
-  {
-    "id": 3,
-    "email": "yesid.vanegas@gmail.com",
-    "password": "Yesid123*",
-    "rol": "participante",
-    "cursos_inscritos": ["frontend1"]
-  }
-],
-
-"eventos": [
-  {
-    "id": "1",
-    "title": "Clase de HTML5",
-    "start": "2023-07-14T10:00:00",
-    "end": "2023-07-14T12:00:00",
-    "tipo": "clase"
-  },
-  {
-    "id": "2",
-    "title": "CRUD con Redux",
-    "start": "2023-07-06T14:00:00",
-    "end": "2023-07-06T14:30:00",
-    "tipo": "entrega"
-  },
-  {
-    "id": "3",
-    "title": "Introducción a React JS",
-    "start": "2023-07-08T09:00:00",
-    "end": "2023-07-08T11:00:00",
-    "tipo": "clase"
-  },
-  {
-    "id": "4",
-    "title": "Taller de Diseño de Interfaces Web",
-    "start": "2023-07-20T14:00:00",
-    "end": "2023-07-20T16:00:00",
-    "tipo": "clase"
-  },
-  {
-    "id": "5",
-    "title": "Charla sobre Optimización de Código JavaScript",
-    "start": "2023-07-22T11:00:00",
-    "end": "2023-07-22T12:30:00",
-    "tipo": "clase"
-  },
-  {
-    "id": "6",
-    "title": "Workshop de Animaciones CSS",
-    "start": "2023-07-24T15:00:00",
-    "end": "2023-07-24T17:00:00",
-    "tipo": "clase"
-  },
-  {
-    "id": "7",
-    "title": "Conferencia sobre Desarrollo Web Responsivo",
-    "start": "2023-07-26T09:30:00",
-    "end": "2023-07-26T11:30:00",
-    "tipo": "clase"
-  },
-  {
-    "id": "8",
-    "title": "Curso de Frameworks Frontend",
-    "start": "2023-07-28T13:00:00",
-    "end": "2023-07-28T16:00:00",
-    "tipo": "clase"
-  },
-  {
-    "id": "9",
-    "title": "Webinar sobre Testing en Desarrollo Frontend",
-    "start": "2023-07-30T10:00:00",
-    "end": "2023-07-30T12:00:00",
-    "tipo": "clase"
-  },
-  {
-    "id": "10",
-    "title": "Hackathon de Desarrollo Frontend",
-    "start": "2023-08-01T18:00:00",
-    "end": "2023-08-01T20:00:00",
-    "tipo": "clase"
-  },
-  {
-    "id": "11",
-    "title": "Día de la Independencia",
-    "start": "2023-07-20",
-    "end": "2023-07-20",
-    "tipo": "festivo"
-  },
-  {
-    "id": "12",
-    "title": "Día de la Raza",
-    "start": "2023-10-12",
-    "end": "2023-10-12",
-    "tipo": "festivo"
-  }
-],
+{
+  "FrontendFundamentos1": [
+    {
+      "modulo": "ere",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "erre",
+      "archivos": {},
+      "id": 1
+    },
+    {
+      "modulo": "este",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "id": 2
+    },
+    {
+      "modulo": "este",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "id": 3
+    }
+  ],
+  "FrontendFundamentos2": [],
+  "FrontendAvanzado1": [],
+  "FrontendAvanzado2": [],
+  "BackendAvanzado2": [],
+  "entrenamientos": [
+    {
+      "id_entrenamiento": 1,
+      "nombre": "Frontend Fundamentos",
+      "id_contenido": "FrontendFundamentos1"
+    },
+    {
+      "id_entrenamiento": 2,
+      "nombre": "Frontend Avanzado",
+      "id_contenido": "FrontendAvanzado1"
+    }
+  ],
+  "etapas": [
+    {
+      "id_etapa": 1,
+      "nombre": "Etapa Inicial"
+    },
+    {
+      "id_etapa": 2,
+      "nombre": "Etapa Avanzada"
+    }
+  ],
+  "cursos": [
+    {
+      "id": "frontend1",
+      "titulo": "FRONTEND1",
+      "descripcion": "Aprende a construir páginas web dinámicas utilizando las últimas tecnologías front-end como HTML5, CSS3 y JavaScript. Descubre cómo crear una experiencia interactiva y atractiva para los usuarios y domina el desarrollo web moderno.",
+      "duracion": "4 meses",
+      "instructor": "John Doe",
+      "id_formador": "john.doe@example.com",
+      "recursosEndpoint": "http://localhost:3000/recursos/frontend1",
+      "id_entrenamiento": "entrenamiento1",
+      "id_etapa": "etapa1",
+      "id_contenido": "FrontendFundamentos1",
+      "contenidos_del_curso": [
+        {
+          "tema": "Introducción a HTML5",
+          "descripcion": "Conoce los conceptos básicos de HTML5 y cómo estructurar contenido en una página web.",
+          "id_entrenamiento": "entrenamiento1",
+          "id_etapa": "etapa1"
+        },
+        {
+          "tema": "Estilos con CSS3",
+          "descripcion": "Aprende a aplicar estilos y diseño a tu página web utilizando CSS3.",
+          "id_entrenamiento": "entrenamiento1",
+          "id_etapa": "etapa2"
+        }
+      ]
+    },
+    {
+      "id": "frontend2",
+      "titulo": "FRONTEND2",
+      "descripcion": "Sumérgete en el mundo del desarrollo de aplicaciones backend con Node.js y Express. Aprende a crear servidores robustos y escalables, manejar bases de datos, implementar autenticación y diseñar API RESTful para tus aplicaciones web y móviles.",
+      "duracion": "4 meses",
+      "instructor": "Jane Smith",
+      "id_formador": "jane.smith@example.com",
+      "recursosEndpoint": "http://localhost:3000/recursos/frontend2",
+      "id_entrenamiento": "entrenamiento2",
+      "id_etapa": "etapa1",
+      "contenidos_del_curso": [
+        {
+          "tema": "Introducción a Node.js",
+          "descripcion": "Aprende los fundamentos de Node.js y cómo crear aplicaciones backend con este entorno de ejecución.",
+          "id_entrenamiento": "entrenamiento2",
+          "id_etapa": "etapa1"
+        },
+        {
+          "tema": "Creación de API RESTful",
+          "descripcion": "Domina cómo diseñar y desarrollar una API RESTful utilizando Express y Node.js.",
+          "id_entrenamiento": "entrenamiento2",
+          "id_etapa": "etapa2"
+        }
+      ]
+    },
+    {
+      "id": "frontend3",
+      "titulo": "FRONTEND3",
+      "descripcion": "Introducción a React JS",
+      "duracion": "4 meses",
+      "instructor": "Mike Johnson",
+      "id_formador": "mike.johnson@example.com",
+      "recursosEndpoint": "http://localhost:3000/recursos/frontend3",
+      "id_entrenamiento": "entrenamiento1",
+      "id_etapa": "etapa2",
+      "id_contenido": "FrontendAvanzado1",
+      "contenidos_del_curso": [
+        {
+          "tema": "Fundamentos de React",
+          "descripcion": "Aprende los conceptos básicos de React y cómo crear componentes reutilizables.",
+          "id_entrenamiento": "entrenamiento1",
+          "id_etapa": "etapa1"
+        },
+        {
+          "tema": "Gestión de Estado con Redux",
+          "descripcion": "Domina cómo utilizar Redux para gestionar el estado de tu aplicación React.",
+          "id_entrenamiento": "entrenamiento1",
+          "id_etapa": "etapa2"
+        }
+      ]
+    },
+    {
+      "id": "frontend4",
+      "titulo": "FRONTEND4",
+      "descripcion": "Desarrollo Avanzado de Frontend",
+      "duracion": "4 meses",
+      "instructor": "Laura Hernandez",
+      "id_formador": "laura.hernandez@example.com",
+      "recursosEndpoint": "http://localhost:3000/recursos/frontend4",
+      "id_entrenamiento": "entrenamiento2",
+      "id_etapa": "etapa1",
+      "id_contenido":"FrontendAvanzado2",
+      "contenidos_del_curso": [
+        {
+          "tema": "Arquitectura Frontend",
+          "descripcion": "Aprende sobre patrones de diseño y arquitecturas avanzadas para aplicaciones frontend.",
+          "id_entrenamiento": "entrenamiento2",
+           "FrontendAvanzado1": [],
+          "id_etapa": "etapa1"
+        },
+        {
+          "tema": "Testing en Frontend",
+          "descripcion": "Domina las técnicas y herramientas para realizar pruebas unitarias y de integración en aplicaciones frontend.",
+          "id_entrenamiento": "entrenamiento2",
+          "id_etapa": "etapa2"
+        }
+      ]
+    },
+    {
+      "id": "backend2",
+      "titulo": "BACKEND2",
+      "descripcion": "Descubre cómo crear aplicaciones web dinámicas y eficientes utilizando el framework Express para Node.js. Aprende a diseñar API RESTful, manejar solicitudes HTTP y gestionar la lógica de negocio de tus aplicaciones.",
+      "duracion": "4 meses",
+      "instructor": "Laura Johnson",
+      "id_formador": "laura.johnson@example.com",
+      "recursosEndpoint": "http://localhost:3000/recursos/backend2",
+      "id_entrenamiento": "entrenamiento2",
+      "id_etapa": "etapa1",
+      "id_contenido":"BackendAvanzado2",
+      "contenidos_del_curso": [
+        {
+          "tema": "Introducción a Express",
+          "descripcion": "Aprende a utilizar el framework Express para crear aplicaciones backend con Node.js.",
+          "id_entrenamiento": "entrenamiento2",
+          "id_etapa": "etapa1"
+        },
+        {
+          "tema": "Gestión de Base de Datos",
+          "descripcion": "Domina cómo conectar y gestionar bases de datos en aplicaciones Node.js con Express.",
+          "id_entrenamiento": "entrenamiento2",
+          "id_etapa": "etapa2"
+        }
+      ]
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "jhon.cartagena@gmail.com",
+      "password": "Jhon123*",
+      "rol": "administrador",
+      "cursos_inscritos": [
+        "frontend1",
+        "backend1"
+      ]
+    },
+    {
+      "id": 2,
+      "email": "luisa.urrego@gmail.com",
+      "password": "Luisa123*",
+      "rol": "formador",
+      "cursos_inscritos": [
+        "frontend2"
+      ]
+    },
+    {
+      "id": 3,
+      "email": "yesid.vanegas@gmail.com",
+      "password": "Yesid123*",
+      "rol": "participante",
+      "cursos_inscritos": [
+        "frontend1"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "1",
+      "id_curso":"frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "Clase de HTML5",
+      "start": "2023-07-14T10:00:00",
+      "end": "2023-07-14T12:00:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "2",
+      "id_curso":"frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "CRUD con Redux",
+      "start": "2023-07-06T14:00:00",
+      "end": "2023-07-06T14:30:00",
+      "tipo": "entrega"
+    },
+    {
+      "id": "3",
+      "id_curso":"frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "Introducción a React JS",
+      "start": "2023-07-08T09:00:00",
+      "end": "2023-07-08T11:00:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "4",
+      "id_curso":"frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "Taller de Diseño de Interfaces Web",
+      "start": "2023-07-20T14:00:00",
+      "end": "2023-07-20T16:00:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "5",
+      "id_curso":"frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "Charla sobre Optimización de Código JavaScript",
+      "start": "2023-07-22T11:00:00",
+      "end": "2023-07-22T12:30:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "6",
+      "id_curso":"frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "Workshop de Animaciones CSS",
+      "start": "2023-07-24T15:00:00",
+      "end": "2023-07-24T17:00:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "7",
+      "id_curso":"frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "Conferencia sobre Desarrollo Web Responsivo",
+      "start": "2023-07-26T09:30:00",
+      "end": "2023-07-26T11:30:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "8",
+      "id_curso":"frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "Curso de Frameworks Frontend",
+      "start": "2023-07-28T13:00:00",
+      "end": "2023-07-28T16:00:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "9",
+      "title": "Webinar sobre Testing en Desarrollo Frontend",
+      "start": "2023-07-30T10:00:00",
+      "end": "2023-07-30T12:00:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "10",
+      "title": "Hackathon de Desarrollo Frontend",
+      "start": "2023-08-01T18:00:00",
+      "end": "2023-08-01T20:00:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "11",
+      "title": "Día de la Independencia",
+      "start": "2023-07-20",
+      "end": "2023-07-20",
+      "tipo": "festivo"
+    },
+    {
+      "id": "12",
+      "title": "Día de la Raza",
+      "start": "2023-10-12",
+      "end": "2023-10-12",
+      "tipo": "festivo"
+    }
+  ],
   "administradores": [
     {
       "id": 1,
