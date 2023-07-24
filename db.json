@@ -18,6 +18,322 @@
       "tipoRecurso": "diapositivas",
       "enlaceGrabacion": "",
       "id": 3
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 4
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "w",
+      "archivos": {},
+      "id": 5
+    },
+    {
+      "modulo": "e",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "id": 6
+    },
+    {
+      "modulo": "eeeee",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 7
+    },
+    {
+      "modulo": "eeeee",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 8
+    },
+    {
+      "modulo": "eeeee",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "id": 9
+    },
+    {
+      "modulo": "tu",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "tu",
+      "archivos": {},
+      "id": 10
+    },
+    {
+      "modulo": "tu",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "tu",
+      "archivos": {},
+      "id": 11
+    },
+    {
+      "modulo": "q",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 12
+    },
+    {
+      "modulo": "q",
+      "tipoRecurso": "ejercicios",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 13
+    },
+    {
+      "modulo": "www",
+      "tipoRecurso": "ejercicios",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 14
+    },
+    {
+      "modulo": "www",
+      "tipoRecurso": "ejercicios",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 15
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 16
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "id": 17
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "import { useDispatch } from 'react-redux';",
+      "archivos": {},
+      "nombreArchivo": "",
+      "id": 18
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "nombreArchivo": "usereducer.pdf",
+      "id": 19
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "nombreArchivo": "usereducer.pdf",
+      "id": 20
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "nombreArchivo": "usereducer.pdf",
+      "id": 21
+    },
+    {
+      "modulo": "uno",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "nombreArchivo": "",
+      "id": 22
+    },
+    {
+      "modulo": "uno",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "nombreArchivo": "usereducer.pdf",
+      "id": 23
+    },
+    {
+      "modulo": "React Html",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "nombreArchivo": "",
+      "id": 24
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "nombreArchivo": "",
+      "id": 25
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 26
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 27
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 28
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 29
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 30
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 31
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 32
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 33
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 34
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "id": 35
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "id": 36
+    },
+    {
+      "modulo": "uno",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "id": 37
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 38
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "id": 39
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 40
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 41
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 42
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 43
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 44
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 45
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 46
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 47
+    },
+    {
+      "modulo": "uno",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 48
     }
   ],
   "FrontendFundamentos2": [],
@@ -27,37 +343,44 @@
   "entrenamientos": [
     {
       "id_entrenamiento": 1,
-      "nombre": "Frontend Fundamentos",
-      "id_contenido": "FrontendFundamentos1"
+      "nombre": "Desarrollo Web Front End",
+      "id_contenido": "Frontend1"
     },
     {
       "id_entrenamiento": 2,
-      "nombre": "Frontend Avanzado",
-      "id_contenido": "FrontendAvanzado1"
+      "nombre": "Desarrollo Web Back End",
+      "id_contenido": "Backend1"
+    },
+    {
+      "id_entrenamiento": 3,
+      "nombre": "Data Analytics",
+      "id_contenido": "Data1"
     }
   ],
   "etapas": [
     {
-      "id_etapa": 1,
-      "nombre": "Etapa Inicial"
+      "id_etapa": "etapa1",
+      "nombre": "Fundamentos"
     },
     {
-      "id_etapa": 2,
-      "nombre": "Etapa Avanzada"
+      "id_etapa": "etapa2",
+      "nombre": "Profundización"
     }
   ],
   "cursos": [
     {
+      
+      "id_entrenamiento": 1,
+      "nombre": "Desarrollo Web Front End",
+      "id_contenido": "Frontend1",
       "id": "frontend1",
       "titulo": "FRONTEND1",
       "descripcion": "Aprende a construir páginas web dinámicas utilizando las últimas tecnologías front-end como HTML5, CSS3 y JavaScript. Descubre cómo crear una experiencia interactiva y atractiva para los usuarios y domina el desarrollo web moderno.",
       "duracion": "4 meses",
       "instructor": "John Doe",
-      "id_formador": "john.doe@example.com",
-      "recursosEndpoint": "http://localhost:3000/recursos/frontend1",
-      "id_entrenamiento": "entrenamiento1",
+      "id_formador": "john.doe@example.com", 
       "id_etapa": "etapa1",
-      "id_contenido": "FrontendFundamentos1",
+    
       "contenidos_del_curso": [
         {
           "tema": "Introducción a HTML5",
@@ -69,26 +392,26 @@
           "tema": "Estilos con CSS3",
           "descripcion": "Aprende a aplicar estilos y diseño a tu página web utilizando CSS3.",
           "id_entrenamiento": "entrenamiento1",
-          "id_etapa": "etapa2"
+          "id_etapa": "etapa1"
         }
       ]
     },
     {
-      "id": "frontend2",
-      "titulo": "FRONTEND2",
+      "id_entrenamiento": 2,
+      "nombre": "Desarrollo Web Back End",
+      "id_contenido": "Backend1",
       "descripcion": "Sumérgete en el mundo del desarrollo de aplicaciones backend con Node.js y Express. Aprende a crear servidores robustos y escalables, manejar bases de datos, implementar autenticación y diseñar API RESTful para tus aplicaciones web y móviles.",
       "duracion": "4 meses",
       "instructor": "Jane Smith",
       "id_formador": "jane.smith@example.com",
       "recursosEndpoint": "http://localhost:3000/recursos/frontend2",
-      "id_entrenamiento": "entrenamiento2",
-      "id_etapa": "etapa1",
+      "id_etapa": "etapa2",
       "contenidos_del_curso": [
         {
           "tema": "Introducción a Node.js",
           "descripcion": "Aprende los fundamentos de Node.js y cómo crear aplicaciones backend con este entorno de ejecución.",
           "id_entrenamiento": "entrenamiento2",
-          "id_etapa": "etapa1"
+          "id_etapa": "etapa2"
         },
         {
           "tema": "Creación de API RESTful",
@@ -99,69 +422,17 @@
       ]
     },
     {
-      "id": "frontend3",
-      "titulo": "FRONTEND3",
-      "descripcion": "Introducción a React JS",
-      "duracion": "4 meses",
-      "instructor": "Mike Johnson",
-      "id_formador": "mike.johnson@example.com",
-      "recursosEndpoint": "http://localhost:3000/recursos/frontend3",
-      "id_entrenamiento": "entrenamiento1",
-      "id_etapa": "etapa2",
-      "id_contenido": "FrontendAvanzado1",
-      "contenidos_del_curso": [
-        {
-          "tema": "Fundamentos de React",
-          "descripcion": "Aprende los conceptos básicos de React y cómo crear componentes reutilizables.",
-          "id_entrenamiento": "entrenamiento1",
-          "id_etapa": "etapa1"
-        },
-        {
-          "tema": "Gestión de Estado con Redux",
-          "descripcion": "Domina cómo utilizar Redux para gestionar el estado de tu aplicación React.",
-          "id_entrenamiento": "entrenamiento1",
-          "id_etapa": "etapa2"
-        }
-      ]
-    },
-    {
-      "id": "frontend4",
-      "titulo": "FRONTEND4",
-      "descripcion": "Desarrollo Avanzado de Frontend",
-      "duracion": "4 meses",
-      "instructor": "Laura Hernandez",
-      "id_formador": "laura.hernandez@example.com",
-      "recursosEndpoint": "http://localhost:3000/recursos/frontend4",
-      "id_entrenamiento": "entrenamiento2",
-      "id_etapa": "etapa1",
-      "id_contenido":"FrontendAvanzado2",
-      "contenidos_del_curso": [
-        {
-          "tema": "Arquitectura Frontend",
-          "descripcion": "Aprende sobre patrones de diseño y arquitecturas avanzadas para aplicaciones frontend.",
-          "id_entrenamiento": "entrenamiento2",
-           "FrontendAvanzado1": [],
-          "id_etapa": "etapa1"
-        },
-        {
-          "tema": "Testing en Frontend",
-          "descripcion": "Domina las técnicas y herramientas para realizar pruebas unitarias y de integración en aplicaciones frontend.",
-          "id_entrenamiento": "entrenamiento2",
-          "id_etapa": "etapa2"
-        }
-      ]
-    },
-    {
-      "id": "backend2",
-      "titulo": "BACKEND2",
+      "id_entrenamiento": 3,
+      "nombre": "Data Analytics",
+      "id_contenido": "Data1",
       "descripcion": "Descubre cómo crear aplicaciones web dinámicas y eficientes utilizando el framework Express para Node.js. Aprende a diseñar API RESTful, manejar solicitudes HTTP y gestionar la lógica de negocio de tus aplicaciones.",
       "duracion": "4 meses",
       "instructor": "Laura Johnson",
       "id_formador": "laura.johnson@example.com",
       "recursosEndpoint": "http://localhost:3000/recursos/backend2",
-      "id_entrenamiento": "entrenamiento2",
+    
       "id_etapa": "etapa1",
-      "id_contenido":"BackendAvanzado2",
+
       "contenidos_del_curso": [
         {
           "tema": "Introducción a Express",
@@ -211,7 +482,7 @@
   "eventos": [
     {
       "id": "1",
-      "id_curso":"frontend1",
+      "id_curso": "frontend1",
       "id_contenido": "FrontendFundamentos1",
       "title": "Clase de HTML5",
       "start": "2023-07-14T10:00:00",
@@ -220,7 +491,7 @@
     },
     {
       "id": "2",
-      "id_curso":"frontend1",
+      "id_curso": "frontend1",
       "id_contenido": "FrontendFundamentos1",
       "title": "CRUD con Redux",
       "start": "2023-07-06T14:00:00",
@@ -229,7 +500,7 @@
     },
     {
       "id": "3",
-      "id_curso":"frontend1",
+      "id_curso": "frontend1",
       "id_contenido": "FrontendFundamentos1",
       "title": "Introducción a React JS",
       "start": "2023-07-08T09:00:00",
@@ -238,7 +509,7 @@
     },
     {
       "id": "4",
-      "id_curso":"frontend1",
+      "id_curso": "frontend1",
       "id_contenido": "FrontendFundamentos1",
       "title": "Taller de Diseño de Interfaces Web",
       "start": "2023-07-20T14:00:00",
@@ -247,7 +518,7 @@
     },
     {
       "id": "5",
-      "id_curso":"frontend1",
+      "id_curso": "frontend1",
       "id_contenido": "FrontendFundamentos1",
       "title": "Charla sobre Optimización de Código JavaScript",
       "start": "2023-07-22T11:00:00",
@@ -256,7 +527,7 @@
     },
     {
       "id": "6",
-      "id_curso":"frontend1",
+      "id_curso": "frontend1",
       "id_contenido": "FrontendFundamentos1",
       "title": "Workshop de Animaciones CSS",
       "start": "2023-07-24T15:00:00",
@@ -265,7 +536,7 @@
     },
     {
       "id": "7",
-      "id_curso":"frontend1",
+      "id_curso": "frontend1",
       "id_contenido": "FrontendFundamentos1",
       "title": "Conferencia sobre Desarrollo Web Responsivo",
       "start": "2023-07-26T09:30:00",
@@ -274,7 +545,7 @@
     },
     {
       "id": "8",
-      "id_curso":"frontend1",
+      "id_curso": "frontend1",
       "id_contenido": "FrontendFundamentos1",
       "title": "Curso de Frameworks Frontend",
       "start": "2023-07-28T13:00:00",
