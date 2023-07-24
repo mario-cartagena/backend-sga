@@ -631,13 +631,25 @@
               "name": "John Doe",
               "photo": "https://randomuser.me/api/portraits/men/1.jpg",
               "calificaciones": {
-                "workshop": {
+                "workshop 1": {
                   "fecha": "2023-07-01",
-                  "nota": 8
+                  "nota": 8,
+                  "actividad": "Pokedex con responsive"
                 },
-                "sprint": {
-                  "fecha": "2023-07-05",
-                  "nota": 9
+                "workshop 2": {
+                  "fecha": "2023-07-08",
+                  "nota": 6,
+                  "actividad": "Landpage Space"
+                },
+                "sprint 1": {
+                  "fecha": "2023-06-06",
+                  "nota": 9,
+                  "actividad": "e-commerce"
+                },
+                "sprint 2": {
+                  "fecha": "2023-06-30",
+                  "nota": 7,
+                  "actividad": "aerolínea"
                 }
               }
             },
