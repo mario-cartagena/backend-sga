@@ -1,5 +1,5 @@
 {
-  "FrontendFundamentos1": [
+  "Frontend1": [
     {
       "modulo": "ere",
       "tipoRecurso": "grabacion",
@@ -336,10 +336,9 @@
       "id": 48
     }
   ],
-  "FrontendFundamentos2": [],
-  "FrontendAvanzado1": [],
-  "FrontendAvanzado2": [],
-  "BackendAvanzado2": [],
+
+  "Backend1": [],
+  "Data Analitics" : [],
   "entrenamientos": [
     {
       "id_entrenamiento": 1,
@@ -469,6 +468,7 @@
         "frontend2"
       ]
     },
+    
     {
       "id": 3,
       "email": "yesid.vanegas@gmail.com",
