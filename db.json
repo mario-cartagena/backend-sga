@@ -137,7 +137,7 @@
   ],
   "estudiantes": [
     {
-      "id": 1,
+      "key": 1,
       "tipoDocumento": "CC",
       "numeroDocumento": "148474374",
       "telefono": "323423345",
@@ -151,17 +151,19 @@
       "photo": "https://randomuser.me/api/portraits/men/1.jpg",
       "calificaciones": {
         "workshop": {
+          "porcentaje": "10%",
           "fecha": "2023-07-01",
-          "nota": 8
+          "nota": "90%"
         },
         "sprint": {
+          "porcentaje": "15%",
           "fecha": "2023-07-05",
-          "nota": 9
+          "nota": "77%"
         }
       }
     },
     {
-      "id": 2,
+      "key": 2,
       "tipoDocumento": "CC",
       "numeroDocumento": "147890234",
       "telefono": "323423345",
@@ -175,23 +177,25 @@
       "photo": "https://randomuser.me/api/portraits/women/2.jpg",
       "calificaciones": {
         "workshop": {
+          "porcentaje": "10%",
           "fecha": "2023-07-01",
-          "nota": 7
+          "nota": "71%"
         },
         "sprint": {
+          "porcentaje": "15%",
           "fecha": "2023-07-05",
-          "nota": 8
+          "nota": "83%"
         }
       }
     },
     {
-      "id": 3,
+      "key": 3,
       "tipoDocumento": "CC",
       "numeroDocumento": "448474374",
       "telefono": "323423345",
       "name": "Carlos",
       "lastname": "Ramírez",
-      "tipo_entrenamiento": "Analisis de datos",
+      "tipo_entrenamiento": "Análisis de datos",
       "modulo": "Fundamentos",
       "cohorte": 1,
       "asistencia": 1,
@@ -199,17 +203,19 @@
       "photo": "https://randomuser.me/api/portraits/men/3.jpg",
       "calificaciones": {
         "workshop": {
+          "porcentaje": "10%",
           "fecha": "2023-07-01",
-          "nota": 9
+          "nota": "60%"
         },
         "sprint": {
+          "porcentaje": "15%",
           "fecha": "2023-07-05",
-          "nota": 8
+          "nota": "50%"
         }
       }
     },
     {
-      "id": 4,
+      "key": 4,
       "tipoDocumento": "CC",
       "numeroDocumento": "548474374",
       "telefono": "323423345",
@@ -223,17 +229,19 @@
       "photo": "https://randomuser.me/api/portraits/women/4.jpg",
       "calificaciones": {
         "workshop": {
+          "porcentaje": "90%",
           "fecha": "2023-07-01",
-          "nota": 8
+          "nota": "80%"
         },
         "sprint": {
+          "porcentaje": "15%",
           "fecha": "2023-07-05",
-          "nota": 7
+          "nota": "70%"
         }
       }
     },
     {
-      "id": 5,
+      "key": 5,
       "tipoDocumento": "CC",
       "numeroDocumento": "648474374",
       "telefono": "323423345",
@@ -247,23 +255,25 @@
       "photo": "https://randomuser.me/api/portraits/men/5.jpg",
       "calificaciones": {
         "workshop": {
+          "porcentaje": "10%",
           "fecha": "2023-07-01",
-          "nota": 7
+          "nota": "76%"
         },
         "sprint": {
+          "porcentaje": "15%",
           "fecha": "2023-07-05",
-          "nota": 8
+          "nota": "80%"
         }
       }
     },
     {
-      "id": 6,
+      "key": 6,
       "tipoDocumento": "CC",
       "numeroDocumento": "948474374",
       "telefono": "323423345",
       "name": "Ana",
       "lastname": "Martínez",
-      "tipo_entrenamiento": "Analisis de datos",
+      "tipo_entrenamiento": "Análisis de datos",
       "modulo": "Profundización",
       "cohorte": 2,
       "asistencia": 6,
@@ -271,17 +281,19 @@
       "photo": "https://randomuser.me/api/portraits/women/6.jpg",
       "calificaciones": {
         "workshop": {
+          "porcentaje": "10%",
           "fecha": "2023-07-01",
-          "nota": 9
+          "nota": "89%"
         },
         "sprint": {
+          "porcentaje": "15%",
           "fecha": "2023-07-05",
-          "nota": 8
+          "nota": "79%"
         }
       }
     },
     {
-      "id": 7,
+      "key": 7,
       "tipoDocumento": "CC",
       "numeroDocumento": "798474374",
       "telefono": "323423345",
@@ -295,17 +307,19 @@
       "photo": "https://randomuser.me/api/portraits/men/7.jpg",
       "calificaciones": {
         "workshop": {
+          "porcentaje": "10%",
           "fecha": "2023-07-01",
-          "nota": 8
+          "nota": "80%"
         },
         "sprint": {
+          "porcentaje": "15%",
           "fecha": "2023-07-05",
-          "nota": 9
+          "nota": "67%"
         }
       }
     },
     {
-      "id": 8,
+      "key": 8,
       "tipoDocumento": "CC",
       "numeroDocumento": "948474374",
       "telefono": "323423345",
@@ -319,23 +333,25 @@
       "photo": "https://randomuser.me/api/portraits/women/8.jpg",
       "calificaciones": {
         "workshop": {
+          "porcentaje": "10%",
           "fecha": "2023-07-01",
-          "nota": 7
+          "nota": "78%"
         },
         "sprint": {
+          "porcentaje": "15%",
           "fecha": "2023-07-05",
-          "nota": 8
+          "nota": "80%"
         }
       }
     },
     {
-      "id": 9,
+      "key": 9,
       "tipoDocumento": "CC",
       "numeroDocumento": "558474374",
       "telefono": "323423345",
       "name": "Diego",
       "lastname": "Hernández",
-      "tipo_entrenamiento": "Analisis de datos",
+      "tipo_entrenamiento": "Análisis de datos",
       "modulo": "Fundamentos",
       "cohorte": 1,
       "asistencia": 2,
@@ -343,17 +359,19 @@
       "photo": "https://randomuser.me/api/portraits/men/9.jpg",
       "calificaciones": {
         "workshop": {
+          "porcentaje": "10%",
           "fecha": "2023-07-01",
-          "nota": 9
+          "nota": "100%"
         },
         "sprint": {
+          "porcentaje": "15%",
           "fecha": "2023-07-05",
-          "nota": 8
+          "nota": "96%"
         }
       }
     },
     {
-      "id": 10,
+      "key": 10,
       "tipoDocumento": "CC",
       "numeroDocumento": "898474374",
       "telefono": "323423345",
@@ -367,12 +385,14 @@
       "photo": "https://randomuser.me/api/portraits/men/10.jpg",
       "calificaciones": {
         "workshop": {
+          "porcentaje": "10%",
           "fecha": "2023-07-01",
-          "nota": 8
+          "nota": "86%"
         },
         "sprint": {
+          "porcentaje": "15%",
           "fecha": "2023-07-05",
-          "nota": 7
+          "nota": "97%"
         }
       }
     }
