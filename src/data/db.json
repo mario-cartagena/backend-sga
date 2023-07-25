@@ -1,0 +1,738 @@
+{
+  "eventos": [
+    {
+      "id": 1,
+      "title": "Clase de HTML5",
+      "start": "2023-07-14T10:00:00",
+      "end": "2023-07-14T12:00:00"
+    },
+    {
+      "id": 2,
+      "title": "CRUD con Redux",
+      "start": "2023-07-06T14:00:00",
+      "end": "2023-07-06T14:30:00"
+    },
+    {
+      "id": 3,
+      "title": "Introducción a React JS",
+      "start": "2023-07-08T09:00:00",
+      "end": "2023-07-08T11:00:00"
+    },
+    {
+      "id": 4,
+      "title": "Taller de Diseño de Interfaces Web",
+      "start": "2023-07-20T14:00:00",
+      "end": "2023-07-20T16:00:00"
+    },
+    {
+      "id": 5,
+      "title": "Charla sobre Optimización de Código JavaScript",
+      "start": "2023-07-22T11:00:00",
+      "end": "2023-07-22T12:30:00"
+    },
+    {
+      "id": 6,
+      "title": "Workshop de Animaciones CSS",
+      "start": "2023-07-24T15:00:00",
+      "end": "2023-07-24T17:00:00"
+    },
+    {
+      "id": 7,
+      "title": "Conferencia sobre Desarrollo Web Responsivo",
+      "start": "2023-07-26T09:30:00",
+      "end": "2023-07-26T11:30:00"
+    },
+    {
+      "id": 8,
+      "title": "Curso de Frameworks Frontend",
+      "start": "2023-07-28T13:00:00",
+      "end": "2023-07-28T16:00:00"
+    },
+    {
+      "id": 9,
+      "title": "Webinar sobre Testing en Desarrollo Frontend",
+      "start": "2023-07-30T10:00:00",
+      "end": "2023-07-30T12:00:00"
+    },
+    {
+      "id": 10,
+      "title": "Hackathon de Desarrollo Frontend",
+      "start": "2023-08-01T18:00:00",
+      "end": "2023-08-01T20:00:00"
+    },
+    {
+      "title": "CRUD con react",
+      "start": "2023-07-07T16:51:00",
+      "end": "2023-07-07T18:51:00",
+      "id": 11
+    },
+    {
+      "title": "Redux Toolkit ",
+      "start": "2023-07-18T14:00:00",
+      "end": "2023-07-18T16:00:00",
+      "id": 12
+    },
+    {
+      "title": "Despliegue de aplicaciones ",
+      "start": "2023-07-19T16:11:00",
+      "end": "2023-07-19T17:11:00",
+      "id": 13
+    }
+  ],
+  "administradores": [
+    {
+      "id": 1,
+      "tipo_documento": "CC",
+      "numero_documento": 12757369,
+      "nombre_completo": "Juan Velasquez",
+      "email": "juanvelez@gmail.com",
+      "contraseña": 1234,
+      "rol": "administrador"
+    },
+    {
+      "id": 2,
+      "tipo_documento": "CC",
+      "numero_documento": 198788,
+      "nombre_completo": "Jenny Cardona",
+      "email": "jennycardona@gmail.com",
+      "contraseña": 4567,
+      "rol": "administrador"
+    },
+    {
+      "id": 3,
+      "tipo_documento": "CC",
+      "numero_documento": 45678900,
+      "nombre_completo": "Gabriela Martinez",
+      "email": "gabrielamartinez@gmail.com",
+      "contraseña": 9825,
+      "rol": "administrador"
+    },
+    {
+      "id": 4,
+      "tipo_documento": "CC",
+      "numero_documento": 8976546,
+      "nombre_completo": "Ana Echeverri",
+      "email": "echeverriana@gmail.com",
+      "contraseña": 7896,
+      "rol": "administrador"
+    },
+    {
+      "nombre_completo": "Juana Daza",
+      "tipo_documento": "Cédula",
+      "numero_documento": "122344",
+      "email": "luisafernandaurrego89@gmail.com",
+      "contraseña": "6789",
+      "rol": "default",
+      "id": 5
+    },
+    {
+      "nombre_completo": "Jhon Cartagena",
+      "tipo_documento": "Cédula",
+      "numero_documento": "6765436",
+      "email": "jhonmario@gmail.com",
+      "contraseña": "234567",
+      "rol": "administrador",
+      "id": 6
+    }
+  ],
+  "estudiantes": [
+    {
+      "key": 1,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "148474374",
+      "telefono": "323423345",
+      "name": "Juan",
+      "lastname": "Pérez",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "asistencia": 3,
+      "email": "juan.perez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "10%",
+          "fecha": "2023-07-01",
+          "nota": "90%"
+        },
+        "sprint": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-05",
+          "nota": "77%"
+        }
+      }
+    },
+    {
+      "key": 2,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "147890234",
+      "telefono": "323423345",
+      "name": "María",
+      "lastname": "González",
+      "tipo_entrenamiento": "Backend",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "asistencia": 7,
+      "email": "maria.gonzalez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "10%",
+          "fecha": "2023-07-01",
+          "nota": "71%"
+        },
+        "sprint": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-05",
+          "nota": "83%"
+        }
+      }
+    },
+    {
+      "key": 3,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "448474374",
+      "telefono": "323423345",
+      "name": "Carlos",
+      "lastname": "Ramírez",
+      "tipo_entrenamiento": "Análisis de datos",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "asistencia": 1,
+      "email": "carlos.ramirez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/3.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "10%",
+          "fecha": "2023-07-01",
+          "nota": "60%"
+        },
+        "sprint": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-05",
+          "nota": "50%"
+        }
+      }
+    },
+    {
+      "key": 4,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "548474374",
+      "telefono": "323423345",
+      "name": "Laura",
+      "lastname": "Gutiérrez",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "asistencia": 8,
+      "email": "laura.gutierrez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/4.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "90%",
+          "fecha": "2023-07-01",
+          "nota": "80%"
+        },
+        "sprint": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-05",
+          "nota": "70%"
+        }
+      }
+    },
+    {
+      "key": 5,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "648474374",
+      "telefono": "323423345",
+      "name": "Pedro",
+      "lastname": "López",
+      "tipo_entrenamiento": "Backend",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "asistencia": 9,
+      "email": "pedro.lopez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/5.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "10%",
+          "fecha": "2023-07-01",
+          "nota": "76%"
+        },
+        "sprint": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-05",
+          "nota": "80%"
+        }
+      }
+    },
+    {
+      "key": 6,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "948474374",
+      "telefono": "323423345",
+      "name": "Ana",
+      "lastname": "Martínez",
+      "tipo_entrenamiento": "Análisis de datos",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "asistencia": 6,
+      "email": "ana.martinez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/6.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "10%",
+          "fecha": "2023-07-01",
+          "nota": "89%"
+        },
+        "sprint": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-05",
+          "nota": "79%"
+        }
+      }
+    },
+    {
+      "key": 7,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "798474374",
+      "telefono": "323423345",
+      "name": "Miguel",
+      "lastname": "Sánchez",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "asistencia": 7,
+      "email": "miguel.sanchez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/7.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "10%",
+          "fecha": "2023-07-01",
+          "nota": "80%"
+        },
+        "sprint": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-05",
+          "nota": "67%"
+        }
+      }
+    },
+    {
+      "key": 8,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "948474374",
+      "telefono": "323423345",
+      "name": "Sara",
+      "lastname": "Gómez",
+      "tipo_entrenamiento": "Backend",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "asistencia": 8,
+      "email": "sara.gomez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/8.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "10%",
+          "fecha": "2023-07-01",
+          "nota": "78%"
+        },
+        "sprint": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-05",
+          "nota": "80%"
+        }
+      }
+    },
+    {
+      "key": 9,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "558474374",
+      "telefono": "323423345",
+      "name": "Diego",
+      "lastname": "Hernández",
+      "tipo_entrenamiento": "Análisis de datos",
+      "modulo": "Fundamentos",
+      "cohorte": 1,
+      "asistencia": 2,
+      "email": "diego.hernandez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/9.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "10%",
+          "fecha": "2023-07-01",
+          "nota": "100%"
+        },
+        "sprint": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-05",
+          "nota": "96%"
+        }
+      }
+    },
+    {
+      "key": 10,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "898474374",
+      "telefono": "323423345",
+      "name": "Julio",
+      "lastname": "Torres",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "asistencia": 7,
+      "email": "julio.torres@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/10.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "10%",
+          "fecha": "2023-07-01",
+          "nota": "86%"
+        },
+        "sprint": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-05",
+          "nota": "97%"
+        }
+      }
+    },
+    {
+      "key": 11,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "898474374",
+      "telefono": "323423345",
+      "name": "Julia",
+      "lastname": "Torres",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Fundamentos",
+      "cohorte": 2,
+      "asistencia": 7,
+      "email": "julia.torres@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/10.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "10%",
+          "fecha": "2023-07-01",
+          "nota": "86%"
+        },
+        "sprint": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-05",
+          "nota": "97%"
+        }
+      }
+    },
+    {
+      "key": 12,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "898474374",
+      "telefono": "323423345",
+      "name": "Julio",
+      "lastname": "Torres",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Profundización",
+      "cohorte": 2,
+      "asistencia": 7,
+      "email": "julio.torres@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/10.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "10%",
+          "fecha": "2023-07-01",
+          "nota": "86%"
+        },
+        "sprint": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-05",
+          "nota": "97%"
+        }
+      }
+    },
+    {
+      "key": 14,
+      "tipoDocumento": "DNI",
+      "numeroDocumento": "72634825",
+      "telefono": "555987654",
+      "name": "Isabella",
+      "lastname": "González",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Profundización",
+      "cohorte": 1,
+      "asistencia": 8,
+      "email": "isabella.gonzalez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/22.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "20%",
+          "fecha": "2023-07-15",
+          "nota": "95%"
+        },
+        "sprint": {
+          "porcentaje": "25%",
+          "fecha": "2023-07-20",
+          "nota": "88%"
+        }
+      }
+    },
+    {
+      "key": 15,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "738392847",
+      "telefono": "323423345",
+      "name": "Laura",
+      "lastname": "Gómez",
+      "tipo_entrenamiento": "Backend",
+      "modulo": "Fundamentos",
+      "cohorte": 2,
+      "asistencia": 7,
+      "email": "laura.gomez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/3.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "10%",
+          "fecha": "2023-07-01",
+          "nota": "86%"
+        },
+        "sprint": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-05",
+          "nota": "97%"
+        }
+      }
+    },
+    {
+      "key": 16,
+      "tipoDocumento": "Ti",
+      "numeroDocumento": "498372817",
+      "telefono": "555987654",
+      "name": "Mateo",
+      "lastname": "Pérez",
+      "tipo_entrenamiento": "Analisis de datos",
+      "modulo": "Fundamentos",
+      "cohorte": 3,
+      "asistencia": 6,
+      "email": "mateo.perez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/20.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "12%",
+          "fecha": "2023-07-02",
+          "nota": "78%"
+        },
+        "sprint": {
+          "porcentaje": "18%",
+          "fecha": "2023-07-07",
+          "nota": "92%"
+        }
+      }
+    },
+    {
+      "key": 17,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "927487362",
+      "telefono": "234567890",
+      "name": "Sofía",
+      "lastname": "Rodríguez",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Profundizacion",
+      "cohorte": 1,
+      "asistencia": 7,
+      "email": "sofia.rodriguez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/25.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-10",
+          "nota": "80%"
+        },
+        "sprint": {
+          "porcentaje": "20%",
+          "fecha": "2023-07-15",
+          "nota": "85%"
+        }
+      }
+    },
+    {
+      "key": 18,
+      "tipoDocumento": "Ti",
+      "numeroDocumento": "748392871",
+      "telefono": "555123456",
+      "name": "Daniel",
+      "lastname": "Hernández",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Fundamentos",
+      "cohorte": 2,
+      "asistencia": 5,
+      "email": "daniel.hernandez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/30.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "8%",
+          "fecha": "2023-07-05",
+          "nota": "70%"
+        },
+        "sprint": {
+          "porcentaje": "10%",
+          "fecha": "2023-07-10",
+          "nota": "75%"
+        }
+      }
+    },
+    {
+      "key": 19,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "638392930",
+      "telefono": "999888777",
+      "name": "Valentina",
+      "lastname": "Vargas",
+      "tipo_entrenamiento": "Backend",
+      "modulo": "Profundizacion",
+      "cohorte": 2,
+      "asistencia": 8,
+      "email": "valentina.vargas@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/5.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "22%",
+          "fecha": "2023-07-17",
+          "nota": "88%"
+        },
+        "sprint": {
+          "porcentaje": "27%",
+          "fecha": "2023-07-22",
+          "nota": "92%"
+        }
+      }
+    },
+    {
+      "key": 20,
+      "tipoDocumento": "Ti",
+      "numeroDocumento": "293840928",
+      "telefono": "987654321",
+      "name": "Matías",
+      "lastname": "Fernández",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Fundamentos",
+      "cohorte": 3,
+      "asistencia": 7,
+      "email": "matias.fernandez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/10.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "14%",
+          "fecha": "2023-07-08",
+          "nota": "80%"
+        },
+        "sprint": {
+          "porcentaje": "19%",
+          "fecha": "2023-07-13",
+          "nota": "90%"
+        }
+      }
+    },
+    {
+      "key": 21,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "748392819",
+      "telefono": "444555666",
+      "name": "Lucas",
+      "lastname": "López",
+      "tipo_entrenamiento": "Analisis de datos",
+      "modulo": "Profundizacion",
+      "cohorte": 1,
+      "asistencia": 6,
+      "email": "lucas.lopez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/40.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "18%",
+          "fecha": "2023-07-12",
+          "nota": "82%"
+        },
+        "sprint": {
+          "porcentaje": "23%",
+          "fecha": "2023-07-17",
+          "nota": "89%"
+        }
+      }
+    },
+    {
+      "key": 22,
+      "tipoDocumento": "Ti",
+      "numeroDocumento": "182736495",
+      "telefono": "777888999",
+      "name": "Emma",
+      "lastname": "Martínez",
+      "tipo_entrenamiento": "Frontend",
+      "modulo": "Fundamentos",
+      "cohorte": 3,
+      "asistencia": 7,
+      "email": "emma.martinez@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/15.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "10%",
+          "fecha": "2023-07-01",
+          "nota": "86%"
+        },
+        "sprint": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-05",
+          "nota": "97%"
+        }
+      }
+    },
+    {
+      "key": 23,
+      "tipoDocumento": "CC",
+      "numeroDocumento": "648394839",
+      "telefono": "888777666",
+      "name": "Sebastián",
+      "lastname": "Gutiérrez",
+      "tipo_entrenamiento": "Backend",
+      "modulo": "Profundizacion",
+      "cohorte": 3,
+      "asistencia": 8,
+      "email": "sebastian.gutierrez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/25.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "22%",
+          "fecha": "2023-07-17",
+          "nota": "88%"
+        },
+        "sprint": {
+          "porcentaje": "27%",
+          "fecha": "2023-07-22",
+          "nota": "92%"
+        }
+      }
+    },
+    {
+      "key": 24,
+      "tipoDocumento": "Ti",
+      "numeroDocumento": "738392847",
+      "telefono": "323423345",
+      "name": "Joaquín",
+      "lastname": "Sanchez",
+      "tipo_entrenamiento": "Analisis de datos",
+      "modulo": "Fundamentos",
+      "cohorte": 2,
+      "asistencia": 7,
+      "email": "joaquin.sanchez@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/12.jpg",
+      "calificaciones": {
+        "workshop": {
+          "porcentaje": "15%",
+          "fecha": "2023-07-10",
+          "nota": "80%"
+        },
+        "sprint": {
+          "porcentaje": "20%",
+          "fecha": "2023-07-15",
+          "nota": "85%"
+        }
+      }
+    }
+  ]
+}
