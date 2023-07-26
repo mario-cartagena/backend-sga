@@ -1,0 +1,953 @@
+{
+  "Frontend1": [
+    {
+      "modulo": "ere",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "erre",
+      "archivos": {},
+      "id": 1
+    },
+    {
+      "modulo": "este",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "id": 2
+    },
+    {
+      "modulo": "este",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "id": 3
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 4
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "w",
+      "archivos": {},
+      "id": 5
+    },
+    {
+      "modulo": "e",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "id": 6
+    },
+    {
+      "modulo": "eeeee",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 7
+    },
+    {
+      "modulo": "eeeee",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 8
+    },
+    {
+      "modulo": "eeeee",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "id": 9
+    },
+    {
+      "modulo": "tu",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "tu",
+      "archivos": {},
+      "id": 10
+    },
+    {
+      "modulo": "tu",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "tu",
+      "archivos": {},
+      "id": 11
+    },
+    {
+      "modulo": "q",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 12
+    },
+    {
+      "modulo": "q",
+      "tipoRecurso": "ejercicios",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 13
+    },
+    {
+      "modulo": "www",
+      "tipoRecurso": "ejercicios",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 14
+    },
+    {
+      "modulo": "www",
+      "tipoRecurso": "ejercicios",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 15
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 16
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "id": 17
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "import { useDispatch } from 'react-redux';",
+      "archivos": {},
+      "nombreArchivo": "",
+      "id": 18
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "nombreArchivo": "usereducer.pdf",
+      "id": 19
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "nombreArchivo": "usereducer.pdf",
+      "id": 20
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "nombreArchivo": "usereducer.pdf",
+      "id": 21
+    },
+    {
+      "modulo": "uno",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "nombreArchivo": "",
+      "id": 22
+    },
+    {
+      "modulo": "uno",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "nombreArchivo": "usereducer.pdf",
+      "id": 23
+    },
+    {
+      "modulo": "React Html",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "nombreArchivo": "",
+      "id": 24
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "nombreArchivo": "",
+      "id": 25
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 26
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 27
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 28
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 29
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 30
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 31
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 32
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 33
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 34
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "id": 35
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "id": 36
+    },
+    {
+      "modulo": "uno",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "id": 37
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 38
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "id": 39
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 40
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 41
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 42
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 43
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 44
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 45
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 46
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 47
+    },
+    {
+      "modulo": "uno",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 48
+    }
+  ],
+  "Backend1": [],
+  "Data Analitics" : [],
+  "entrenamientos": [
+    {
+      "id_entrenamiento": 1,
+      "nombre": "Desarrollo Web Front End",
+      "id_contenido": "Frontend1"
+    },
+    {
+      "id_entrenamiento": 2,
+      "nombre": "Desarrollo Web Back End",
+      "id_contenido": "Backend1"
+    },
+    {
+      "id_entrenamiento": 3,
+      "nombre": "Data Analytics",
+      "id_contenido": "Data1"
+    }
+  ],
+  "etapas": [
+    {
+      "id_etapa": "etapa1",
+      "nombre": "Fundamentos"
+    },
+    {
+      "id_etapa": "etapa2",
+      "nombre": "Profundización"
+    }
+  ],
+  "cursos": [
+    {
+      
+      "id_entrenamiento": 1,
+      "nombre": "Desarrollo Web Front End",
+      "id_contenido": "Frontend1",
+      "id": "frontend1",
+      "titulo": "FRONTEND1",
+      "descripcion": "Aprende a construir páginas web dinámicas utilizando las últimas tecnologías front-end como HTML5, CSS3 y JavaScript. Descubre cómo crear una experiencia interactiva y atractiva para los usuarios y domina el desarrollo web moderno.",
+      "duracion": "4 meses",
+      "instructor": "John Doe",
+      "id_formador": "john.doe@example.com", 
+      "id_etapa": "etapa1",
+    
+      "contenidos_del_curso": [
+        {
+          "tema": "Introducción a HTML5",
+          "descripcion": "Conoce los conceptos básicos de HTML5 y cómo estructurar contenido en una página web.",
+          "id_entrenamiento": "entrenamiento1",
+          "id_etapa": "etapa1"
+        },
+        {
+          "tema": "Estilos con CSS3",
+          "descripcion": "Aprende a aplicar estilos y diseño a tu página web utilizando CSS3.",
+          "id_entrenamiento": "entrenamiento1",
+          "id_etapa": "etapa1"
+        }
+      ]
+    },
+    {
+      "id_entrenamiento": 2,
+      "nombre": "Desarrollo Web Back End",
+      "id_contenido": "Backend1",
+      "descripcion": "Sumérgete en el mundo del desarrollo de aplicaciones backend con Node.js y Express. Aprende a crear servidores robustos y escalables, manejar bases de datos, implementar autenticación y diseñar API RESTful para tus aplicaciones web y móviles.",
+      "duracion": "4 meses",
+      "instructor": "Jane Smith",
+      "id_formador": "jane.smith@example.com",
+      "recursosEndpoint": "http://localhost:3000/recursos/frontend2",
+      "id_etapa": "etapa2",
+      "contenidos_del_curso": [
+        {
+          "tema": "Introducción a Node.js",
+          "descripcion": "Aprende los fundamentos de Node.js y cómo crear aplicaciones backend con este entorno de ejecución.",
+          "id_entrenamiento": "entrenamiento2",
+          "id_etapa": "etapa2"
+        },
+        {
+          "tema": "Creación de API RESTful",
+          "descripcion": "Domina cómo diseñar y desarrollar una API RESTful utilizando Express y Node.js.",
+          "id_entrenamiento": "entrenamiento2",
+          "id_etapa": "etapa2"
+        }
+      ]
+    },
+    {
+      "id_entrenamiento": 3,
+      "nombre": "Data Analytics",
+      "id_contenido": "Data1",
+      "descripcion": "Descubre cómo crear aplicaciones web dinámicas y eficientes utilizando el framework Express para Node.js. Aprende a diseñar API RESTful, manejar solicitudes HTTP y gestionar la lógica de negocio de tus aplicaciones.",
+      "duracion": "4 meses",
+      "instructor": "Laura Johnson",
+      "id_formador": "laura.johnson@example.com",
+      "recursosEndpoint": "http://localhost:3000/recursos/backend2",
+    
+      "id_etapa": "etapa1",
+
+      "contenidos_del_curso": [
+        {
+          "tema": "Introducción a Express",
+          "descripcion": "Aprende a utilizar el framework Express para crear aplicaciones backend con Node.js.",
+          "id_entrenamiento": "entrenamiento2",
+          "id_etapa": "etapa1"
+        },
+        {
+          "tema": "Gestión de Base de Datos",
+          "descripcion": "Domina cómo conectar y gestionar bases de datos en aplicaciones Node.js con Express.",
+          "id_entrenamiento": "entrenamiento2",
+          "id_etapa": "etapa2"
+        }
+      ]
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "jhon.cartagena@gmail.com",
+      "password": "Jhon123*",
+      "rol": "administrador",
+      "cursos_inscritos": [
+        "frontend1",
+        "backend1"
+      ]
+    },
+    {
+      "id": 2,
+      "email": "luisa.urrego@gmail.com",
+      "password": "Luisa123*",
+      "rol": "formador",
+      "cursos_inscritos": [
+        "frontend2"
+      ]
+    },
+    
+    {
+      "id": 3,
+      "email": "yesid.vanegas@gmail.com",
+      "password": "Yesid123*",
+      "rol": "participante",
+      "cursos_inscritos": [
+        "frontend1"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "1",
+      "id_curso": "frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "Clase de HTML5",
+      "start": "2023-07-14T10:00:00",
+      "end": "2023-07-14T12:00:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "2",
+      "id_curso": "frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "CRUD con Redux",
+      "start": "2023-07-06T14:00:00",
+      "end": "2023-07-06T14:30:00",
+      "tipo": "entrega"
+    },
+    {
+      "id": "3",
+      "id_curso": "frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "Introducción a React JS",
+      "start": "2023-07-08T09:00:00",
+      "end": "2023-07-08T11:00:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "4",
+      "id_curso": "frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "Taller de Diseño de Interfaces Web",
+      "start": "2023-07-20T14:00:00",
+      "end": "2023-07-20T16:00:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "5",
+      "id_curso": "frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "Charla sobre Optimización de Código JavaScript",
+      "start": "2023-07-22T11:00:00",
+      "end": "2023-07-22T12:30:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "6",
+      "id_curso": "frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "Workshop de Animaciones CSS",
+      "start": "2023-07-24T15:00:00",
+      "end": "2023-07-24T17:00:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "7",
+      "id_curso": "frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "Conferencia sobre Desarrollo Web Responsivo",
+      "start": "2023-07-26T09:30:00",
+      "end": "2023-07-26T11:30:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "8",
+      "id_curso": "frontend1",
+      "id_contenido": "FrontendFundamentos1",
+      "title": "Curso de Frameworks Frontend",
+      "start": "2023-07-28T13:00:00",
+      "end": "2023-07-28T16:00:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "9",
+      "title": "Webinar sobre Testing en Desarrollo Frontend",
+      "start": "2023-07-30T10:00:00",
+      "end": "2023-07-30T12:00:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "10",
+      "title": "Hackathon de Desarrollo Frontend",
+      "start": "2023-08-01T18:00:00",
+      "end": "2023-08-01T20:00:00",
+      "tipo": "clase"
+    },
+    {
+      "id": "11",
+      "title": "Día de la Independencia",
+      "start": "2023-07-20",
+      "end": "2023-07-20",
+      "tipo": "festivo"
+    },
+    {
+      "id": "12",
+      "title": "Día de la Raza",
+      "start": "2023-10-12",
+      "end": "2023-10-12",
+      "tipo": "festivo"
+    }
+  ],
+  "administradores": [
+    {
+      "id": 1,
+      "tipo_documento": "CC",
+      "numero_documento": 12757369,
+      "nombre_completo": "Juan Velasquez",
+      "email": "juanvelez@gmail.com",
+      "contraseña": 1234,
+      "rol": "administrador"
+    },
+    {
+      "id": 2,
+      "tipo_documento": "CC",
+      "numero_documento": 198788,
+      "nombre_completo": "Jenny Cardona",
+      "email": "jennycardona@gmail.com",
+      "contraseña": 4567,
+      "rol": "administrador"
+    },
+    {
+      "id": 3,
+      "tipo_documento": "CC",
+      "numero_documento": 45678900,
+      "nombre_completo": "Gabriela Martinez",
+      "email": "gabrielamartinez@gmail.com",
+      "contraseña": 9825,
+      "rol": "administrador"
+    },
+    {
+      "id": 4,
+      "tipo_documento": "CC",
+      "numero_documento": 8976546,
+      "nombre_completo": "Ana Echeverri",
+      "email": "echeverriana@gmail.com",
+      "contraseña": 7896,
+      "rol": "administrador"
+    }
+  ],
+  "students": [
+    {
+      "Frontend": [
+        {
+          "nombre": "Front1",
+          "fundamentos": true,
+          "estudiantes": [
+            {
+              "id": 1,
+              "name": "John Doe",
+              "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+              "calificaciones": {
+                "workshop 1": {
+                  "fecha": "2023-07-01",
+                  "nota": 8,
+                  "actividad": "Pokedex con responsive"
+                },
+                "workshop 2": {
+                  "fecha": "2023-07-08",
+                  "nota": 6,
+                  "actividad": "Landpage Space"
+                },
+                "sprint 1": {
+                  "fecha": "2023-06-06",
+                  "nota": 9,
+                  "actividad": "e-commerce"
+                },
+                "sprint 2": {
+                  "fecha": "2023-06-30",
+                  "nota": 7,
+                  "actividad": "aerolínea"
+                }
+              }
+            },
+            {
+              "id": 2,
+              "name": "John Shed",
+              "photo": "https://randomuser.me/api/portraits/men/90.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            },
+            {
+              "id": 3,
+              "name": "Juan Raul",
+              "photo": "https://randomuser.me/api/portraits/men/50.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            }
+          ]
+        },
+        {
+          "nombre": "Front2",
+          "fundamentos": false,
+          "estudiantes": [
+            {
+              "id": 1,
+              "name": "John Doe",
+              "photo": "https://randomuser.me/api/portraits/men/99.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            },
+            {
+              "id": 2,
+              "name": "John Shed",
+              "photo": "https://randomuser.me/api/portraits/women/90.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            },
+            {
+              "id": 3,
+              "name": "Juan Raul",
+              "photo": "https://randomuser.me/api/portraits/men/60.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Backend": [
+        {
+          "nombre": "Back1",
+          "fundamentos": true,
+          "estudiantes": [
+            {
+              "id": 1,
+              "name": "John Doe",
+              "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            },
+            {
+              "id": 2,
+              "name": "John Shed",
+              "photo": "https://randomuser.me/api/portraits/men/90.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            },
+            {
+              "id": 3,
+              "name": "Juan Raul",
+              "photo": "https://randomuser.me/api/portraits/men/50.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            }
+          ]
+        },
+        {
+          "nombre": "Back2",
+          "fundamentos": false,
+          "estudiantes": [
+            {
+              "id": 1,
+              "name": "John Doe",
+              "photo": "https://randomuser.me/api/portraits/men/99.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            },
+            {
+              "id": 2,
+              "name": "John Shed",
+              "photo": "https://randomuser.me/api/portraits/women/90.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            },
+            {
+              "id": 3,
+              "name": "Juan Raul",
+              "photo": "https://randomuser.me/api/portraits/men/60.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Analisis de datos": [
+        {
+          "nombre": "Datos1",
+          "fundamentos": true,
+          "estudiantes": [
+            {
+              "id": 1,
+              "name": "John Doe",
+              "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            },
+            {
+              "id": 2,
+              "name": "John Shed",
+              "photo": "https://randomuser.me/api/portraits/men/90.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            },
+            {
+              "id": 3,
+              "name": "Juan Raul",
+              "photo": "https://randomuser.me/api/portraits/men/50.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            }
+          ]
+        },
+        {
+          "nombre": "Datos2",
+          "fundamentos": false,
+          "estudiantes": [
+            {
+              "id": 1,
+              "name": "John Doe",
+              "photo": "https://randomuser.me/api/portraits/men/99.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            },
+            {
+              "id": 2,
+              "name": "John Shed",
+              "photo": "https://randomuser.me/api/portraits/women/90.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            },
+            {
+              "id": 3,
+              "name": "Juan Raul",
+              "photo": "https://randomuser.me/api/portraits/men/60.jpg",
+              "calificaciones": {
+                "workshop": {
+                  "fecha": "2023-07-01",
+                  "nota": 8
+                },
+                "sprint": {
+                  "fecha": "2023-07-05",
+                  "nota": 9
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
