@@ -758,5 +758,97 @@
         }
       }
     }
+  ],
+  "etapas": [
+    {
+      "id_etapa": "etapa1",
+      "nombre": "Fundamentos"
+    },
+    {
+      "id_etapa": "etapa2",
+      "nombre": "Profundización"
+    }
+  ],
+  "cursos": [
+    {
+      
+      "id_entrenamiento": 1,
+      "nombre": "Desarrollo Web Front End",
+      "id_contenido": "Frontend1",
+      "id": "frontend1",
+      "titulo": "FRONTEND1",
+      "descripcion": "Aprende a construir páginas web dinámicas utilizando las últimas tecnologías front-end como HTML5, CSS3 y JavaScript. Descubre cómo crear una experiencia interactiva y atractiva para los usuarios y domina el desarrollo web moderno.",
+      "duracion": "4 meses",
+      "instructor": "John Doe",
+      "id_formador": "john.doe@example.com", 
+      "id_etapa": "etapa1",
+    
+      "contenidos_del_curso": [
+        {
+          "tema": "Introducción a HTML5",
+          "descripcion": "Conoce los conceptos básicos de HTML5 y cómo estructurar contenido en una página web.",
+          "id_entrenamiento": "entrenamiento1",
+          "id_etapa": "etapa1"
+        },
+        {
+          "tema": "Estilos con CSS3",
+          "descripcion": "Aprende a aplicar estilos y diseño a tu página web utilizando CSS3.",
+          "id_entrenamiento": "entrenamiento1",
+          "id_etapa": "etapa1"
+        }
+      ]
+    },
+    {
+      "id_entrenamiento": 2,
+      "nombre": "Desarrollo Web Back End",
+      "id_contenido": "Backend1",
+      "descripcion": "Sumérgete en el mundo del desarrollo de aplicaciones backend con Node.js y Express. Aprende a crear servidores robustos y escalables, manejar bases de datos, implementar autenticación y diseñar API RESTful para tus aplicaciones web y móviles.",
+      "duracion": "4 meses",
+      "instructor": "Jane Smith",
+      "id_formador": "jane.smith@example.com",
+      "recursosEndpoint": "http://localhost:3000/recursos/frontend2",
+      "id_etapa": "etapa2",
+      "contenidos_del_curso": [
+        {
+          "tema": "Introducción a Node.js",
+          "descripcion": "Aprende los fundamentos de Node.js y cómo crear aplicaciones backend con este entorno de ejecución.",
+          "id_entrenamiento": "entrenamiento2",
+          "id_etapa": "etapa2"
+        },
+        {
+          "tema": "Creación de API RESTful",
+          "descripcion": "Domina cómo diseñar y desarrollar una API RESTful utilizando Express y Node.js.",
+          "id_entrenamiento": "entrenamiento2",
+          "id_etapa": "etapa2"
+        }
+      ]
+    },
+    {
+      "id_entrenamiento": 3,
+      "nombre": "Data Analytics",
+      "id_contenido": "Data1",
+      "descripcion": "Descubre cómo crear aplicaciones web dinámicas y eficientes utilizando el framework Express para Node.js. Aprende a diseñar API RESTful, manejar solicitudes HTTP y gestionar la lógica de negocio de tus aplicaciones.",
+      "duracion": "4 meses",
+      "instructor": "Laura Johnson",
+      "id_formador": "laura.johnson@example.com",
+      "recursosEndpoint": "http://localhost:3000/recursos/backend2",
+    
+      "id_etapa": "etapa1",
+
+      "contenidos_del_curso": [
+        {
+          "tema": "Introducción a Express",
+          "descripcion": "Aprende a utilizar el framework Express para crear aplicaciones backend con Node.js.",
+          "id_entrenamiento": "entrenamiento2",
+          "id_etapa": "etapa1"
+        },
+        {
+          "tema": "Gestión de Base de Datos",
+          "descripcion": "Domina cómo conectar y gestionar bases de datos en aplicaciones Node.js con Express.",
+          "id_entrenamiento": "entrenamiento2",
+          "id_etapa": "etapa2"
+        }
+      ]
+    }
   ]
 }
