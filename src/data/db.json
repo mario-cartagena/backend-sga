@@ -850,5 +850,343 @@
         }
       ]
     }
+  ],
+
+  "Frontend1": [
+    {
+      "modulo": "ere",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "erre",
+      "archivos": {},
+      "id": 1
+    },
+    {
+      "modulo": "este",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "id": 2
+    },
+    {
+      "modulo": "este",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "id": 3
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 4
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "w",
+      "archivos": {},
+      "id": 5
+    },
+    {
+      "modulo": "e",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "id": 6
+    },
+    {
+      "modulo": "eeeee",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 7
+    },
+    {
+      "modulo": "eeeee",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 8
+    },
+    {
+      "modulo": "eeeee",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "id": 9
+    },
+    {
+      "modulo": "tu",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "tu",
+      "archivos": {},
+      "id": 10
+    },
+    {
+      "modulo": "tu",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "tu",
+      "archivos": {},
+      "id": 11
+    },
+    {
+      "modulo": "q",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 12
+    },
+    {
+      "modulo": "q",
+      "tipoRecurso": "ejercicios",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 13
+    },
+    {
+      "modulo": "www",
+      "tipoRecurso": "ejercicios",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 14
+    },
+    {
+      "modulo": "www",
+      "tipoRecurso": "ejercicios",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "id": 15
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 16
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "id": 17
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "import { useDispatch } from 'react-redux';",
+      "archivos": {},
+      "nombreArchivo": "",
+      "id": 18
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "nombreArchivo": "usereducer.pdf",
+      "id": 19
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "nombreArchivo": "usereducer.pdf",
+      "id": 20
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "nombreArchivo": "usereducer.pdf",
+      "id": 21
+    },
+    {
+      "modulo": "uno",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "nombreArchivo": "",
+      "id": 22
+    },
+    {
+      "modulo": "uno",
+      "tipoRecurso": "diapositivas",
+      "enlaceGrabacion": "",
+      "archivos": {},
+      "nombreArchivo": "usereducer.pdf",
+      "id": 23
+    },
+    {
+      "modulo": "React Html",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "nombreArchivo": "",
+      "id": 24
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "nombreArchivo": "",
+      "id": 25
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 26
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 27
+    },
+    {
+      "modulo": "profundizacion",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 28
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 29
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 30
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 31
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "ejercicios_obligatorios",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 32
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 33
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "nombreArchivo": "",
+      "id": 34
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "id": 35
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "id": 36
+    },
+    {
+      "modulo": "uno",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "id": 37
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 38
+    },
+    {
+      "modulo": "epa",
+      "tipoRecurso": "lectura",
+      "enlaceGrabacion": "",
+      "id": 39
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 40
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 41
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 42
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 43
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 44
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 45
+    },
+    {
+      "modulo": "dos",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 46
+    },
+    {
+      "modulo": "1",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 47
+    },
+    {
+      "modulo": "uno",
+      "tipoRecurso": "grabacion",
+      "enlaceGrabacion": "http://localhost:3000/eventosFrontend3",
+      "archivos": {},
+      "id": 48
+    }
   ]
 }
